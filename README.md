@@ -3,7 +3,9 @@ This repository showcases my completed Jupyter Notebooks from various **Kaggle L
 
 ---
 
-# 📘 Courses Covered :
+# 📘 Courses Covered
+Below are the Kaggle courses I’ve completed, along with direct links to my notebooks and certifications.
+
 ## [Intro to Programming](https://www.kaggle.com/learn/certification/avikdas567/intro-to-programming)
 - [Exercise: Arithmetic and Variables](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-arithmetic-and-variables.ipynb)
 - [Exercise: Functions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-functions.ipynb)
