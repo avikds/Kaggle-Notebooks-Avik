@@ -3,17 +3,8 @@ This repository showcases my completed Jupyter Notebooks from various **Kaggle L
 
 ---
 
-# 🧠 Overview
-The goal of this repository is to demonstrate my continuous learning journey in data science, programming, and AI fundamentals through hands-on practice on Kaggle.
-Each notebook reflects:
-- Practical coding exercises from Kaggle Learn
-- My own solutions and explanations
-- Application of core programming and data science concepts
-
----
-
-# 📘 Courses Covered
-## Intro to Programming
+# 📘 Courses Covered :
+## [Intro to Programming](https://www.kaggle.com/learn/certification/avikdas567/intro-to-programming)
 - [Exercise: Arithmetic and Variables](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-arithmetic-and-variables.ipynb)
 - [Exercise: Functions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-functions.ipynb)
 - [Exercise: Data Types](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-types.ipynb)
@@ -23,7 +14,7 @@ Each notebook reflects:
 
 ---
 
-## Python
+## [Python](https://www.kaggle.com/learn/certification/avikdas567/python)
 - [Exercise: Syntax, Variables, and Numbers](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-syntax-variables-and-numbers.ipynb)
 - [Exercise: Functions and Getting Help](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-functions-and-getting-help.ipynb)
 - [Exercise: Booleans and Conditionals](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-booleans-and-conditionals.ipynb)
@@ -31,5 +22,25 @@ Each notebook reflects:
 - [Exercise: Loops and List Comprehensions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-loops-and-list-comprehensions.ipynb)
 - [Exercise: Strings and Dictionaries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-strings-and-dictionaries.ipynb)
 - [Exercise: Working with External Libraries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-working-with-external-libraries.ipynb)
+
+---
+
+# 🧠 Overview
+
+This repo is both a **portfolio** of my learning progress and a **personal record** of the hands-on practice I’ve done through Kaggle courses.
+It highlights my journey in developing core skills in:
+- Programming (Python)
+- Data handling and analysis
+- Data visualization
+- Machine learning fundamentals
+
+---
+
+# 🎯 Purpose
+I created this repository to:
+- Keep track of my progress as I learn through Kaggle
+- Reinforce concepts by revisiting solved exercises
+- Build a consistent learning habit through practical work
+- Share my approach with others who are also learning
 
 ---
