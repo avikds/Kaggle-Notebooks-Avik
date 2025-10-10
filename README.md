@@ -3,10 +3,10 @@ This repository showcases my completed Jupyter Notebooks from various **Kaggle L
 
 ---
 
-# 📘 Courses Covered
+## 📘 Courses Covered
 Below are the Kaggle courses I’ve completed, along with direct links to my notebooks and certifications.
 
-## [Intro to Programming](https://www.kaggle.com/learn/certification/avikdas567/intro-to-programming)
+### [Intro to Programming](https://www.kaggle.com/learn/certification/avikdas567/intro-to-programming)
 - [Exercise: Arithmetic and Variables](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-arithmetic-and-variables.ipynb)
 - [Exercise: Functions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-functions.ipynb)
 - [Exercise: Data Types](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-types.ipynb)
@@ -14,9 +14,9 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 - [Exercise: Intro to Lists](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-intro-to-lists.ipynb)
 - [Titanic Competition](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/getting-started-with-titanic.ipynb)
 
----
+##
 
-## [Python](https://www.kaggle.com/learn/certification/avikdas567/python)
+### [Python](https://www.kaggle.com/learn/certification/avikdas567/python)
 - [Exercise: Syntax, Variables, and Numbers](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-syntax-variables-and-numbers.ipynb)
 - [Exercise: Functions and Getting Help](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-functions-and-getting-help.ipynb)
 - [Exercise: Booleans and Conditionals](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-booleans-and-conditionals.ipynb)
@@ -27,7 +27,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 
 ---
 
-# 🧠 Overview
+## 🧠 Overview
 
 This repo is both a **portfolio** of my learning progress and a **personal record** of the hands-on practice I’ve done through Kaggle courses.
 It highlights my journey in developing core skills in:
@@ -38,7 +38,7 @@ It highlights my journey in developing core skills in:
 
 ---
 
-# 🎯 Purpose
+## 🎯 Purpose
 I created this repository to:
 - Keep track of my progress as I learn through Kaggle
 - Reinforce concepts by revisiting solved exercises
