@@ -25,6 +25,11 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 - [Exercise: Strings and Dictionaries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-strings-and-dictionaries.ipynb)
 - [Exercise: Working with External Libraries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-working-with-external-libraries.ipynb)
 
+##
+
+### Pandas
+- [Exercise: Creating, Reading and Writing](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-creating-reading-and-writing.ipynb)
+
 ---
 
 ## 🧠 Overview
