@@ -1,4 +1,4 @@
-# 📚 Kaggle Course Notebooks
+# 📚 Kaggle Courses Notebooks
 This repository showcases my completed Jupyter Notebooks from various **Kaggle Learn** courses. Each notebook contains my **solutions** and **implementations** for the official Kaggle exercises, covering a wide range of data science and programming topics.
 
 ---
