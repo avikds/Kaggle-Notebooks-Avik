@@ -1,5 +1,5 @@
 # 📚 Kaggle Courses Notebooks
-This repository showcases my completed Kaggle Notebooks (`.ipynb` files) from various **Kaggle Learn** courses. Each notebook contains my **solutions** and **implementations** for the official Kaggle exercises, covering a wide range of data science and programming topics.
+This repository showcases my completed Kaggle Notebooks (`.ipynb` files) from various [Kaggle Learn](https://www.kaggle.com/learn) courses. Each notebook contains my **solutions** and **implementations** for the official Kaggle exercises, covering a wide range of data science and programming topics.
 
 ---
 
@@ -45,6 +45,8 @@ It highlights my journey in developing core skills in:
 - Data handling and analysis
 - Data visualization
 - Machine learning fundamentals
+
+While the course material itself belongs to Kaggle, the implementations and solutions here reflect my understanding and approach.
 
 ---
 
