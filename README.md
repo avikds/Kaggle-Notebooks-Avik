@@ -37,16 +37,16 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 
 ---
 
-## 🧠 Overview
+## ✨ Overview
 
-This repo is both a **portfolio** of my learning progress and a **personal record** of the hands-on practice I’ve done through Kaggle courses.
+This repository serves as both a **portfolio** of my learning progress and a **record** of the hands-on practice I’ve done through Kaggle courses.
 It highlights my journey in developing core skills in:
 - Programming (Python)
 - Data handling and analysis
 - Data visualization
 - Machine learning fundamentals
 
-While the course material itself belongs to Kaggle, the implementations and solutions here reflect my understanding and approach.
+While the course material itself belongs to Kaggle, the implementations and solutions here reflect my personal understanding and approach.
 
 ---
 
@@ -56,5 +56,15 @@ I created this repository to:
 - Reinforce concepts by revisiting solved exercises
 - Build a consistent learning habit through practical work
 - Share my approach with others who are also learning
+
+---
+
+## 🚀 Next Steps
+I plan to extend this repository with more Kaggle courses, including:
+- Advanced SQL
+- Geospatial Analysis    
+- Feature Engineering  
+- Intro to Deep Learning
+- Computer Vision  
 
 ---
