@@ -3,10 +3,10 @@ This repository showcases my completed Kaggle Notebooks (`.ipynb` files) from va
 
 ---
 
-## 📘 Courses Covered
+# 📘 Courses Covered
 Below are the Kaggle courses I’ve completed, along with direct links to my notebooks and certifications.
 
-### [Intro to Programming](https://www.kaggle.com/learn/certification/avikdas567/intro-to-programming)
+## [Intro to Programming](https://www.kaggle.com/learn/certification/avikdas567/intro-to-programming)
 - [Exercise: Arithmetic and Variables](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-arithmetic-and-variables.ipynb)
 - [Exercise: Functions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-functions.ipynb)
 - [Exercise: Data Types](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-types.ipynb)
@@ -14,9 +14,9 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 - [Exercise: Intro to Lists](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-intro-to-lists.ipynb)
 - [Titanic Competition](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/getting-started-with-titanic.ipynb)
 
-##
 
-### [Python](https://www.kaggle.com/learn/certification/avikdas567/python)
+
+## [Python](https://www.kaggle.com/learn/certification/avikdas567/python)
 - [Exercise: Syntax, Variables, and Numbers](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-syntax-variables-and-numbers.ipynb)
 - [Exercise: Functions and Getting Help](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-functions-and-getting-help.ipynb)
 - [Exercise: Booleans and Conditionals](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-booleans-and-conditionals.ipynb)
@@ -25,9 +25,9 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 - [Exercise: Strings and Dictionaries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-strings-and-dictionaries.ipynb)
 - [Exercise: Working with External Libraries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-working-with-external-libraries.ipynb)
 
-##
 
-### [Pandas](https://www.kaggle.com/learn/certification/avikdas567/pandas)
+
+## [Pandas](https://www.kaggle.com/learn/certification/avikdas567/pandas)
 - [Exercise: Creating, Reading and Writing](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-creating-reading-and-writing.ipynb)
 - [Exercise: Indexing, Selecting & Assigning](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-indexing-selecting-assigning.ipynb)
 - [Exercise: Summary Functions and Maps](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-summary-functions-and-maps.ipynb)
@@ -37,7 +37,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 
 ---
 
-## ⭐ Overview
+# ⭐ Overview
 
 This repository serves as both a **portfolio** of my learning progress and a **record** of the hands-on practice I’ve done through Kaggle courses.
 It highlights my journey in developing core skills in:
@@ -50,7 +50,7 @@ While the course material itself belongs to Kaggle, the implementations and solu
 
 ---
 
-## 🎯 Purpose
+# 🎯 Purpose
 I created this repository to:
 - Keep track of my progress as I learn through Kaggle
 - Reinforce concepts by revisiting solved exercises
@@ -59,7 +59,7 @@ I created this repository to:
 
 ---
 
-## 🚀 Next Steps
+# 🚀 Next Steps
 I plan to extend this repository with more Kaggle courses, including:
 - Advanced SQL
 - Geospatial Analysis    
