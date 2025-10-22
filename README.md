@@ -32,6 +32,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 - [Exercise: Indexing, Selecting & Assigning](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-indexing-selecting-assigning.ipynb)
 - [Exercise: Summary Functions and Maps](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-summary-functions-and-maps.ipynb)
 - [Exercise: Grouping and Sorting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-grouping-and-sorting.ipynb)
+- [Exercise: Data Types and Missing Values](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-types-and-missing-values.ipynb)
 
 ---
 
