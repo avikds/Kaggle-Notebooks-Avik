@@ -37,7 +37,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 
 ---
 
-## ✨ Overview
+## ⭐ Overview
 
 This repository serves as both a **portfolio** of my learning progress and a **record** of the hands-on practice I’ve done through Kaggle courses.
 It highlights my journey in developing core skills in:
