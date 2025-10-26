@@ -31,6 +31,9 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Data Types and Missing Values](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-types-and-missing-values.ipynb)
   - [Exercise: Renaming and Combining](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-renaming-and-combining.ipynb)
 
+- ### [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
+  - [Exercise: Handling Missing Values](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-handling-missing-values.ipynb)
+
 ---
 
 ## ⭐ Overview
