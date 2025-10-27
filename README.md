@@ -33,6 +33,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 
 - ### [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
   - [Exercise: Handling Missing Values](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-handling-missing-values.ipynb)
+  - [Exercise: Scaling and Normalization](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-scaling-and-normalization.ipynb)
 
 ---
 
