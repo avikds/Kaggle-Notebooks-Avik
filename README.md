@@ -35,6 +35,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Handling Missing Values](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-handling-missing-values.ipynb)
   - [Exercise: Scaling and Normalization](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-scaling-and-normalization.ipynb)
   - [Exercise: Parsing Dates](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-parsing-dates.ipynb)
+  - [Exercise: Character Encodings](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-character-encodings.ipynb)
 
 ---
 
