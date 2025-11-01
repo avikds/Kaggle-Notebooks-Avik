@@ -31,11 +31,12 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Data Types and Missing Values](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-types-and-missing-values.ipynb)
   - [Exercise: Renaming and Combining](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-renaming-and-combining.ipynb)
 
-- ### [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
+- ### [Data Cleaning](https://www.kaggle.com/learn/certification/avikdas567/data-cleaning)
   - [Exercise: Handling Missing Values](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-handling-missing-values.ipynb)
   - [Exercise: Scaling and Normalization](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-scaling-and-normalization.ipynb)
   - [Exercise: Parsing Dates](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-parsing-dates.ipynb)
   - [Exercise: Character Encodings](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-character-encodings.ipynb)
+  - [Exercise: Inconsistent Data Entry](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-inconsistent-data-entry.ipynb)
 
 ---
 
