@@ -38,6 +38,9 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Character Encodings](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-character-encodings.ipynb)
   - [Exercise: Inconsistent Data Entry](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-inconsistent-data-entry.ipynb)
 
+- ### [Data Visualization](https://www.kaggle.com/learn/data-visualization)
+  - [Exercise: Hello, Seaborn](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-hello-seaborn.ipynb)
+
 ---
 
 ## ⭐ Overview
