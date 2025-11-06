@@ -40,6 +40,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 
 - ### [Data Visualization](https://www.kaggle.com/learn/data-visualization)
   - [Exercise: Hello, Seaborn](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-hello-seaborn.ipynb)
+  - [Exercise: Line Charts](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-line-charts.ipynb)
  
 ---
 
