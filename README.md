@@ -44,7 +44,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Bar Charts and Heatmaps](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-bar-charts-and-heatmaps.ipynb)
   - [Exercise: Scatter Plots](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-scatter-plots.ipynb)
   - [Exercise: Distributions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-distributions.ipynb)
-  - 
+  - [Exercise: Choosing Plot Types and Custom Styles](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-choosing-plot-types-and-custom-styles.ipynb)
  
 ---
 
