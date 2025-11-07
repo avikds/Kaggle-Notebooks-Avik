@@ -38,13 +38,14 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Character Encodings](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-character-encodings.ipynb)
   - [Exercise: Inconsistent Data Entry](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-inconsistent-data-entry.ipynb)
 
-- ### [Data Visualization](https://www.kaggle.com/learn/data-visualization)
+- ### [Data Visualization](https://www.kaggle.com/learn/certification/avikdas567/data-visualization)
   - [Exercise: Hello, Seaborn](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-hello-seaborn.ipynb)
   - [Exercise: Line Charts](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-line-charts.ipynb)
   - [Exercise: Bar Charts and Heatmaps](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-bar-charts-and-heatmaps.ipynb)
   - [Exercise: Scatter Plots](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-scatter-plots.ipynb)
   - [Exercise: Distributions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-distributions.ipynb)
   - [Exercise: Choosing Plot Types and Custom Styles](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-choosing-plot-types-and-custom-styles.ipynb)
+  - [Exercise: Final Project](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-final-project.ipynb)
  
 ---
 
