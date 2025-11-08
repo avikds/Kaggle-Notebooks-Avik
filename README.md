@@ -49,6 +49,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 
 - ### [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
   - [Exercise: Explore Your Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-explore-your-data.ipynb)
+  - [Exercise: Your First Machine Learning Model](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-your-first-machine-learning-model.ipynb)
  
 ---
 
