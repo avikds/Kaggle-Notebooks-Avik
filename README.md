@@ -46,6 +46,8 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Distributions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-distributions.ipynb)
   - [Exercise: Choosing Plot Types and Custom Styles](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-choosing-plot-types-and-custom-styles.ipynb)
   - [Exercise: Final Project](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-final-project.ipynb)
+
+- ### [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
  
 ---
 
