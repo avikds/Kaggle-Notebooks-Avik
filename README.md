@@ -52,6 +52,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Your First Machine Learning Model](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-your-first-machine-learning-model.ipynb)
   - [Exercise: Model Validation](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-model-validation.ipynb)
   - [Exercise: Underfitting and Overfitting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-underfitting-and-overfitting.ipynb)
+  - [Exercise: Random Forests](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-random-forests.ipynb)
  
 ---
 
