@@ -47,12 +47,13 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Choosing Plot Types and Custom Styles](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-choosing-plot-types-and-custom-styles.ipynb)
   - [Exercise: Final Project](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-final-project.ipynb)
 
-- ### [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+- ### [Intro to Machine Learning](https://www.kaggle.com/learn/certification/avikdas567/intro-to-machine-learning)
   - [Exercise: Explore Your Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-explore-your-data.ipynb)
   - [Exercise: Your First Machine Learning Model](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-your-first-machine-learning-model.ipynb)
   - [Exercise: Model Validation](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-model-validation.ipynb)
   - [Exercise: Underfitting and Overfitting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-underfitting-and-overfitting.ipynb)
   - [Exercise: Random Forests](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-random-forests.ipynb)
+  - [Exercise: Machine Learning Competitions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-machine-learning-competitions.ipynb)
  
 ---
 
