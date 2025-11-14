@@ -54,6 +54,9 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Underfitting and Overfitting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-underfitting-and-overfitting.ipynb)
   - [Exercise: Random Forests](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-random-forests.ipynb)
   - [Exercise: Machine Learning Competitions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-machine-learning-competitions.ipynb)
+
+- ### [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
+  - [Exercise: Getting Started With SQL and BigQuery](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-getting-started-with-sql-and-bigquery.ipynb)
  
 ---
 
