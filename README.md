@@ -57,6 +57,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 
 - ### [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
   - [Exercise: Getting Started With SQL and BigQuery](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-getting-started-with-sql-and-bigquery.ipynb)
+  - [Exercise: Select, From & Where](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-select-from-where.ipynb)
  
 ---
 
