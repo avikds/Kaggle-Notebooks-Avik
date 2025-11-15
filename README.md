@@ -59,6 +59,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Getting Started With SQL and BigQuery](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-getting-started-with-sql-and-bigquery.ipynb)
   - [Exercise: Select, From & Where](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-select-from-where.ipynb)
   - [Exercise: Group By, Having & Count](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-group-by-having-count.ipynb)
+  - [Exercise: Order By](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-order-by.ipynb)
  
 ---
 
