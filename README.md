@@ -55,30 +55,32 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Random Forests](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-random-forests.ipynb)
   - [Exercise: Machine Learning Competitions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-machine-learning-competitions.ipynb)
 
-- ### [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
+- ### [Intro to SQL](https://www.kaggle.com/learn/certification/avikdas567/intro-to-sql)
   - [Exercise: Getting Started With SQL and BigQuery](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-getting-started-with-sql-and-bigquery.ipynb)
   - [Exercise: Select, From & Where](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-select-from-where.ipynb)
   - [Exercise: Group By, Having & Count](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-group-by-having-count.ipynb)
   - [Exercise: Order By](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-order-by.ipynb)
   - [Exercise: As & With](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-as-with.ipynb)
+  - [Exercise: Joining Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-joining-data.ipynb)
  
 ---
 
 ## ⭐ Overview
 
 This repository serves as both a **portfolio** of my learning progress and a **record** of the hands-on practice I’ve done through Kaggle courses.
-It highlights my journey toward developing core skills in:
+It highlights my journey toward developing core skills in :
 - Programming (Python)
 - Data handling and analysis
 - Data visualization
-- Machine learning fundamentals
+- Machine learning & Deep Learning fundamentals
+- SQL
 
 While the course material itself belongs to Kaggle, the implementations and solutions here reflect my personal understanding and approach.
 
 ---
 
 ## 🎯 Purpose
-I created this repository to:
+I created this repository to :
 - Keep track of my progress as I learn through Kaggle
 - Reinforce concepts by revisiting solved exercises
 - Build a consistent learning habit through practical work
@@ -87,11 +89,12 @@ I created this repository to:
 ---
 
 ## 🚀 Next Steps
-I plan to extend this repository with more Kaggle courses, including:
-- Advanced SQL
+I plan to extend this repository with more Kaggle courses, including :
 - Geospatial Analysis    
-- Feature Engineering  
+- Feature Engineering
+- Time Series  
 - Intro to Deep Learning
-- Computer Vision  
+- Computer Vision
+- Intro to Game AI and Reinforcement Learning   
 
 ---
