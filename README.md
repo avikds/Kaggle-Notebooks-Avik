@@ -63,11 +63,11 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: As & With](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-as-with.ipynb)
   - [Exercise: Joining Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-joining-data.ipynb)
 
-- ### [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
+- ### [Advanced SQL](https://www.kaggle.com/learn/certification/avikdas567/advanced-sql)
   - [Exercise: JOINs and UNIONs](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-joins-and-unions.ipynb)
   - [Exercise: Analytic Functions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-analytic-functions.ipynb)
   - [Exercise: Nested and Repeated Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-nested-and-repeated-data.ipynb)
-  - 
+  - [Exercise: Writing Efficient Queries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-writing-efficient-queries.ipynb)
 
 ---
 
