@@ -65,6 +65,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
 
 - ### [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
   - [Exercise: JOINs and UNIONs](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-joins-and-unions.ipynb)
+  - [Exercise: Analytic Functions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-analytic-functions.ipynb)
 
 ---
 
