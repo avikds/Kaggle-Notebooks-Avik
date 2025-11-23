@@ -69,6 +69,9 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Nested and Repeated Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-nested-and-repeated-data.ipynb)
   - [Exercise: Writing Efficient Queries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-writing-efficient-queries.ipynb)
 
+- ### [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+  - [Exercise: Introduction](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-introduction.ipynb)
+
 ---
 
 ## ⭐ Overview
