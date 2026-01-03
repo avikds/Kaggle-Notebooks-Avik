@@ -12,7 +12,6 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Data Types](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-types.ipynb)
   - [Exercise: Conditions and Conditional Statements](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-conditions-and-conditional-statements.ipynb)
   - [Exercise: Intro to Lists](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-intro-to-lists.ipynb)
-  - [Titanic Competition](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/getting-started-with-titanic.ipynb)
 
 - ### [Python](https://www.kaggle.com/learn/certification/avikdas567/python)
   - [Exercise: Syntax, Variables, and Numbers](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-syntax-variables-and-numbers.ipynb)
@@ -53,7 +52,6 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Model Validation](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-model-validation.ipynb)
   - [Exercise: Underfitting and Overfitting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-underfitting-and-overfitting.ipynb)
   - [Exercise: Random Forests](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-random-forests.ipynb)
-  - [Exercise: Machine Learning Competitions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-machine-learning-competitions.ipynb)
 
 - ### [Intro to SQL](https://www.kaggle.com/learn/certification/avikdas567/intro-to-sql)
   - [Exercise: Getting Started With SQL and BigQuery](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-getting-started-with-sql-and-bigquery.ipynb)
