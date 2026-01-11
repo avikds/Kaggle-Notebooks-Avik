@@ -75,6 +75,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Predicting Student Test Scores](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/predicting-student-test-scores.ipynb)
   - [Social Media Extremism Detection Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/social-media-extremism-detection-challenge.ipynb)
   - [Recod.ai/LUC - Scientific Image Forgery Detection](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/scientific-image-forgery-detection.ipynb)
+  - [Santa 2025 - Christmas Tree Packing Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/santa-2025-christmas-tree-packing-challenge.ipynb)
   - [Housing Prices Competition for Kaggle Learn Users](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-machine-learning-competitions.ipynb)
   - [Titanic - Machine Learning from Disaster](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/getting-started-with-titanic.ipynb)
 
