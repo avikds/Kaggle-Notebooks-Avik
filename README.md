@@ -74,7 +74,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Diabetes Prediction Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/diabetes-prediction-challenge.ipynb)
   - [Predicting Student Test Scores](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/predicting-student-test-scores.ipynb)
   - [Social Media Extremism Detection Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/social-media-extremism-detection-challenge.ipynb)
-  - [Recod.ai/LUC - Scientific Image Forgery Detection](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/0f5d88f760154cafae289cfeee97898154800cee/scientific-image-forgery-detection.ipynb)
+  - [Recod.ai/LUC - Scientific Image Forgery Detection](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/scientific-image-forgery-detection.ipynb)
   - [Housing Prices Competition for Kaggle Learn Users](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-machine-learning-competitions.ipynb)
   - [Titanic - Machine Learning from Disaster](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/getting-started-with-titanic.ipynb)
 
