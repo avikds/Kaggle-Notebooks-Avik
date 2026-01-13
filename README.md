@@ -74,6 +74,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Catechol Benchmark Hackathon (NeurIPS 2025 DnB)](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/catechol-benchmark-hackathon.ipynb)
   - [Recod.ai/LUC - Scientific Image Forgery Detection](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/scientific-image-forgery-detection.ipynb)
   - [PhysioNet - Digitization of ECG Images](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/digitization-of-ecg-images.ipynb)
+  - [CSIRO - Image2Biomass Prediction](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/image2biomass-prediction.ipynb)
   - [Predicting Student Test Scores](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/predicting-student-test-scores.ipynb)
   - [Social Media Extremism Detection Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/social-media-extremism-detection-challenge.ipynb)
   - [Santa 2025 - Christmas Tree Packing Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/santa-2025-christmas-tree-packing-challenge.ipynb)
