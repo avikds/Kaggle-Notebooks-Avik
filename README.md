@@ -72,6 +72,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Missing Values](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-missing-values.ipynb)
   - [Exercise: Categorical Variables](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-categorical-variables.ipynb)
   - [Exercise: Pipelines](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-pipelines.ipynb)
+  - [Exercise: Cross-Validation](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-cross-validation.ipynb)
 
 - ### [Kaggle Competitions](https://www.kaggle.com/competitions)
   - [Catechol Benchmark Hackathon (NeurIPS 2025 DnB)](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/catechol-benchmark-hackathon.ipynb)
