@@ -67,14 +67,14 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Nested and Repeated Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-nested-and-repeated-data.ipynb)
   - [Exercise: Writing Efficient Queries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-writing-efficient-queries.ipynb)
 
-- ### [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+- ### [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/avikdas567/intermediate-machine-learning)
   - [Exercise: Introduction](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-introduction.ipynb)
   - [Exercise: Missing Values](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-missing-values.ipynb)
   - [Exercise: Categorical Variables](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-categorical-variables.ipynb)
   - [Exercise: Pipelines](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-pipelines.ipynb)
   - [Exercise: Cross-Validation](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-cross-validation.ipynb)
   - [Exercise: XGBoost](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-xgboost.ipynb)
-  - []()
+  - [Exercise: Data Leakage](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-leakage.ipynb)
 
 - ### [Kaggle Competitions](https://www.kaggle.com/competitions)
   - [Catechol Benchmark Hackathon (NeurIPS 2025 DnB)](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/catechol-benchmark-hackathon.ipynb)
