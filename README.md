@@ -1,10 +1,28 @@
-# 📚 Kaggle Courses Notebooks
-This repository showcases my completed Kaggle Notebooks (`.ipynb` files) from various [Kaggle Learn](https://www.kaggle.com/learn) courses. Each notebook contains my **solutions** and **implementations** for the official Kaggle exercises, covering a wide range of data science and programming topics.
+# Kaggle Competitions & Courses Notebooks
+This repository showcases my completed Notebooks (`.ipynb` files) from various [Kaggle Learn](https://www.kaggle.com/learn) courses and [Kaggle Competitions](https://www.kaggle.com/competitions). 
+Each notebook contains my **solutions** and **implementations** for the official Kaggle exercises, covering a wide range of Data Science topics.
 
 ---
 
-## 📘 Courses Covered
-Below are the Kaggle courses I’ve completed, along with direct links to my notebooks and certifications.
+## [Competitions:](https://www.kaggle.com/competitions)
+
+- [Vesuvius Challenge - Surface Detection](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/vesuvius-challenge-surface-detection.ipynb)
+- [Catechol Benchmark Hackathon (NeurIPS 2025 DnB)](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/catechol-benchmark-hackathon.ipynb)
+- [Recod.ai/LUC - Scientific Image Forgery Detection](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/scientific-image-forgery-detection.ipynb)
+- [PhysioNet - Digitization of ECG Images](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/digitization-of-ecg-images.ipynb)
+- [CSIRO - Image2Biomass Prediction](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/image2biomass-prediction.ipynb)
+- [Predicting Student Test Scores](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/predicting-student-test-scores.ipynb)
+- [Social Media Extremism Detection Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/social-media-extremism-detection-challenge.ipynb)
+- [Santa 2025 - Christmas Tree Packing Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/santa-2025-christmas-tree-packing-challenge.ipynb)
+- [Connect X](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/connect-x.ipynb)
+- [Deep Past Challenge - Translate Akkadian to English](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/deep-past-challenge-translate-akkadian-to-english.ipynb)
+- [Diabetes Prediction Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/diabetes-prediction-challenge.ipynb)
+- [Housing Prices Competition for Kaggle Learn Users](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-machine-learning-competitions.ipynb)
+- [Titanic - Machine Learning from Disaster](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/getting-started-with-titanic.ipynb)
+
+---
+
+## [Courses:](https://www.kaggle.com/learn)
 
 - ### [Intro to Programming](https://www.kaggle.com/learn/certification/avikdas567/intro-to-programming)
   - [Exercise: Arithmetic and Variables](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-arithmetic-and-variables.ipynb)
@@ -46,13 +64,6 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Choosing Plot Types and Custom Styles](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-choosing-plot-types-and-custom-styles.ipynb)
   - [Exercise: Final Project](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-final-project.ipynb)
 
-- ### [Intro to Machine Learning](https://www.kaggle.com/learn/certification/avikdas567/intro-to-machine-learning)
-  - [Exercise: Explore Your Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-explore-your-data.ipynb)
-  - [Exercise: Your First Machine Learning Model](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-your-first-machine-learning-model.ipynb)
-  - [Exercise: Model Validation](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-model-validation.ipynb)
-  - [Exercise: Underfitting and Overfitting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-underfitting-and-overfitting.ipynb)
-  - [Exercise: Random Forests](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-random-forests.ipynb)
-
 - ### [Intro to SQL](https://www.kaggle.com/learn/certification/avikdas567/intro-to-sql)
   - [Exercise: Getting Started With SQL and BigQuery](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-getting-started-with-sql-and-bigquery.ipynb)
   - [Exercise: Select, From & Where](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-select-from-where.ipynb)
@@ -67,6 +78,13 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Nested and Repeated Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-nested-and-repeated-data.ipynb)
   - [Exercise: Writing Efficient Queries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-writing-efficient-queries.ipynb)
 
+- ### [Intro to Machine Learning](https://www.kaggle.com/learn/certification/avikdas567/intro-to-machine-learning)
+  - [Exercise: Explore Your Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-explore-your-data.ipynb)
+  - [Exercise: Your First Machine Learning Model](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-your-first-machine-learning-model.ipynb)
+  - [Exercise: Model Validation](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-model-validation.ipynb)
+  - [Exercise: Underfitting and Overfitting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-underfitting-and-overfitting.ipynb)
+  - [Exercise: Random Forests](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-random-forests.ipynb)
+
 - ### [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/avikdas567/intermediate-machine-learning)
   - [Exercise: Introduction](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-introduction.ipynb)
   - [Exercise: Missing Values](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-missing-values.ipynb)
@@ -75,54 +93,5 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Cross-Validation](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-cross-validation.ipynb)
   - [Exercise: XGBoost](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-xgboost.ipynb)
   - [Exercise: Data Leakage](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-leakage.ipynb)
-
-- ### [Kaggle Competitions](https://www.kaggle.com/competitions)
-  - [Vesuvius Challenge - Surface Detection](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/vesuvius-challenge-surface-detection.ipynb)
-  - [Catechol Benchmark Hackathon (NeurIPS 2025 DnB)](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/catechol-benchmark-hackathon.ipynb)
-  - [Recod.ai/LUC - Scientific Image Forgery Detection](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/scientific-image-forgery-detection.ipynb)
-  - [PhysioNet - Digitization of ECG Images](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/digitization-of-ecg-images.ipynb)
-  - [CSIRO - Image2Biomass Prediction](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/image2biomass-prediction.ipynb)
-  - [Predicting Student Test Scores](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/predicting-student-test-scores.ipynb)
-  - [Social Media Extremism Detection Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/social-media-extremism-detection-challenge.ipynb)
-  - [Santa 2025 - Christmas Tree Packing Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/santa-2025-christmas-tree-packing-challenge.ipynb)
-  - [Connect X](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/connect-x.ipynb)
-  - [Deep Past Challenge - Translate Akkadian to English](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/deep-past-challenge-translate-akkadian-to-english.ipynb)
-  - [Diabetes Prediction Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/diabetes-prediction-challenge.ipynb)
-  - [Housing Prices Competition for Kaggle Learn Users](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-machine-learning-competitions.ipynb)
-  - [Titanic - Machine Learning from Disaster](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/getting-started-with-titanic.ipynb)
-
----
-
-## ⭐ Overview
-
-This repository serves as both a **portfolio** of my learning progress and a **record** of the hands-on practice I’ve done through Kaggle courses.
-It highlights my journey toward developing core skills in :
-- Programming (Python)
-- Data handling and analysis
-- Data visualization
-- Machine learning & Deep Learning fundamentals
-- SQL
-
-While the course material itself belongs to Kaggle, the implementations and solutions here reflect my personal understanding and approach.
-
----
-
-## 🎯 Purpose
-I created this repository to :
-- Keep track of my progress as I learn through Kaggle
-- Reinforce concepts by revisiting solved exercises
-- Build a consistent learning habit through practical work
-- Share my approach with others who are also learning
-
----
-
-## 🚀 Next Steps
-I plan to extend this repository with more Kaggle courses, including :
-- Geospatial Analysis    
-- Feature Engineering
-- Time Series  
-- Intro to Deep Learning
-- Computer Vision
-- Intro to Game AI and Reinforcement Learning   
 
 ---
