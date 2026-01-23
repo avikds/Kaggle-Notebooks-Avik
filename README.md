@@ -1,6 +1,6 @@
 # Kaggle Competitions & Courses Notebooks
-This repository showcases my completed Notebooks (`.ipynb` files) from various [Kaggle Learn](https://www.kaggle.com/learn) courses and [Kaggle Competitions](https://www.kaggle.com/competitions). 
-Each notebook contains my **solutions** and **implementations** for the official Kaggle exercises, covering a wide range of Data Science topics.
+This repository contains my completed Notebooks (`.ipynb` files) from various [Kaggle Learn](https://www.kaggle.com/learn) courses and [Kaggle Competitions](https://www.kaggle.com/competitions). 
+Each notebook includes my solutions and implementations for the official Kaggle exercises, covering a wide range of Data Science & Machine Learning topics.
 
 ---
 
