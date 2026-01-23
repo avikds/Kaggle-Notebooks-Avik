@@ -77,6 +77,7 @@ Below are the Kaggle courses I’ve completed, along with direct links to my not
   - [Exercise: Data Leakage](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-leakage.ipynb)
 
 - ### [Kaggle Competitions](https://www.kaggle.com/competitions)
+  - [Vesuvius Challenge - Surface Detection](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/vesuvius-challenge-surface-detection.ipynb)
   - [Catechol Benchmark Hackathon (NeurIPS 2025 DnB)](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/catechol-benchmark-hackathon.ipynb)
   - [Recod.ai/LUC - Scientific Image Forgery Detection](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/scientific-image-forgery-detection.ipynb)
   - [PhysioNet - Digitization of ECG Images](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/digitization-of-ecg-images.ipynb)
