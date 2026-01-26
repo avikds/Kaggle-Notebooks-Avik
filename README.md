@@ -16,9 +16,9 @@ Each notebook includes my **solutions** and **implementations** for the official
 - [Predicting Student Test Scores](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/predicting-student-test-scores.ipynb)
 - [Social Media Extremism Detection Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/social-media-extremism-detection-challenge.ipynb)
 - [Santa 2025 - Christmas Tree Packing Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/santa-2025-christmas-tree-packing-challenge.ipynb)
-- [Connect X](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/connect-x.ipynb)
 - [Deep Past Challenge - Translate Akkadian to English](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/deep-past-challenge-translate-akkadian-to-english.ipynb)
 - [Diabetes Prediction Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/diabetes-prediction-challenge.ipynb)
+- [Connect X](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/connect-x.ipynb)
 - [Housing Prices Competition for Kaggle Learn Users](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-machine-learning-competitions.ipynb)
 - [Titanic - Machine Learning from Disaster](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/getting-started-with-titanic.ipynb)
 
