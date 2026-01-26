@@ -6,6 +6,7 @@ Each notebook includes my **solutions** and **implementations** for the official
 
 ## [Competitions:](https://www.kaggle.com/competitions)
 
+- [Stanford RNA 3D Folding Part 2](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/stanford-rna-3d-folding-part-2.ipynb)
 - [CAFA 6 Protein Function Prediction](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/cafa-6-protein-function-prediction.ipynb)
 - [Vesuvius Challenge - Surface Detection](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/vesuvius-challenge-surface-detection.ipynb)
 - [Catechol Benchmark Hackathon (NeurIPS 2025 DnB)](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/catechol-benchmark-hackathon.ipynb)
