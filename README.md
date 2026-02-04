@@ -10,6 +10,7 @@ Each notebook includes my **solutions** and **implementations** for the official
 - [CAFA 6 Protein Function Prediction](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/cafa-6-protein-function-prediction.ipynb)
 - [Vesuvius Challenge - Surface Detection](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/vesuvius-challenge-surface-detection.ipynb)
 - [Catechol Benchmark Hackathon (NeurIPS 2025 DnB)](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/catechol-benchmark-hackathon.ipynb)
+- [Rental product recommendation system](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/rental-product-recommendation-system.ipynb)
 - [Recod.ai/LUC - Scientific Image Forgery Detection](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/scientific-image-forgery-detection.ipynb)
 - [PhysioNet - Digitization of ECG Images](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/digitization-of-ecg-images.ipynb)
 - [CSIRO - Image2Biomass Prediction](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/image2biomass-prediction.ipynb)
