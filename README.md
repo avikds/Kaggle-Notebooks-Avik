@@ -99,4 +99,7 @@ Each notebook includes my **solutions** and **implementations** for the official
   - [Exercise: XGBoost](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-xgboost.ipynb)
   - [Exercise: Data Leakage](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-leakage.ipynb)
 
+- ### [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
+  - [Exercise: A Single Neuron](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-a-single-neuron.ipynb)
+
 ---
