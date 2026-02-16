@@ -101,6 +101,5 @@ Each notebook includes my **solutions** and **implementations** for the official
 
 - ### [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
   - [Exercise: A Single Neuron](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-a-single-neuron.ipynb)
-  - [Exercise: Deep Neural Networks](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-deep-neural-networks.ipynb)
 
 ---
