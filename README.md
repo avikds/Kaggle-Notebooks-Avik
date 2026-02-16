@@ -104,5 +104,6 @@ Each notebook includes my **solutions** and **implementations** for the official
   - [Exercise: Deep Neural Networks](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-deep-neural-networks.ipynb)
   - [Exercise: Stochastic Gradient Descent](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-stochastic-gradient-descent.ipynb)
   - [Exercise: Overfitting and Underfitting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-overfitting-and-underfitting.ipynb)
+  - [Exercise: Dropout and Batch Normalization](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-dropout-and-batch-normalization.ipynb)
 
 ---
