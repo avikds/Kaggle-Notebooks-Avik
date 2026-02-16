@@ -111,6 +111,6 @@ Each notebook includes my **solutions** and **implementations** for the official
   - [Exercise: Human-Centered Design for AI](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-human-centered-design-for-ai.ipynb)
   - [Exercise: Identifying Bias in AI](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-identifying-bias-in-ai.ipynb)
   - [Exercise: AI Fairness](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-ai-fairness.ipynb)
-  - [Exercise: Model Cards]()
+  - [Exercise: Model Cards](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-model-cards.ipynb)
 
 ---
