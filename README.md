@@ -107,4 +107,10 @@ Each notebook includes my **solutions** and **implementations** for the official
   - [Exercise: Dropout and Batch Normalization](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-dropout-and-batch-normalization.ipynb)
   - [Exercise: Binary Classification](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-binary-classification.ipynb)
 
+- ### [Intro to AI Ethics](https://www.kaggle.com/learn/certification/avikdas567/intro-to-ai-ethics)
+  - [Exercise: Human-Centered Design for AI](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-human-centered-design-for-ai.ipynb)
+  - [Exercise: Identifying Bias in AI]()
+  - [Exercise: AI Fairness]()
+  - [Exercise: Model Cards]()
+
 ---
