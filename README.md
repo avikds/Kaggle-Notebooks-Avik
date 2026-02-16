@@ -99,11 +99,12 @@ Each notebook includes my **solutions** and **implementations** for the official
   - [Exercise: XGBoost](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-xgboost.ipynb)
   - [Exercise: Data Leakage](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-leakage.ipynb)
 
-- ### [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
+- ### [Intro to Deep Learning](https://www.kaggle.com/learn/certification/avikdas567/intro-to-deep-learning)
   - [Exercise: A Single Neuron](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-a-single-neuron.ipynb)
   - [Exercise: Deep Neural Networks](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-deep-neural-networks.ipynb)
   - [Exercise: Stochastic Gradient Descent](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-stochastic-gradient-descent.ipynb)
   - [Exercise: Overfitting and Underfitting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-overfitting-and-underfitting.ipynb)
   - [Exercise: Dropout and Batch Normalization](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-dropout-and-batch-normalization.ipynb)
+  - [Exercise: Binary Classification](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-binary-classification.ipynb)
 
 ---
