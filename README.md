@@ -109,7 +109,7 @@ Each notebook includes my **solutions** and **implementations** for the official
 
 - ### [Intro to AI Ethics](https://www.kaggle.com/learn/certification/avikdas567/intro-to-ai-ethics)
   - [Exercise: Human-Centered Design for AI](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-human-centered-design-for-ai.ipynb)
-  - [Exercise: Identifying Bias in AI]()
+  - [Exercise: Identifying Bias in AI](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-identifying-bias-in-ai.ipynb)
   - [Exercise: AI Fairness]()
   - [Exercise: Model Cards]()
 
