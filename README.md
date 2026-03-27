@@ -8,6 +8,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 
 - [BirdCLEF+ 2026](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/birdclef-2026-mel-spectrogram-cnn-soundscapes.ipynb)
 - [March Machine Learning Mania 2026](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/march-machine-learning-mania-2026.ipynb)
+- [Hedge fund - Time series forecasting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/grouped-time-series-forecasting-with-lightgbm.ipynb)
 - [ARC Prize 2026 - ARC-AGI-2](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/arc-agi-2-grid-transform-solver-with-beam-search.ipynb)
 - [ARC Prize 2026 - ARC-AGI-3](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/arc-agi-3-hybrid-dsl-program-search-with-planning.ipynb)
 - [Harmonizing the Data of your Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/harmonizing-sdrf-metadata-hybrid-tfidf-rules.ipynb)
