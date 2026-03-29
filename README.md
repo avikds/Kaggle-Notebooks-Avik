@@ -11,6 +11,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [Hedge fund - Time series forecasting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/time-series-forecasting-with-lag-features-lightgbm.ipynb)
 - [NVIDIA Nemotron Model Reasoning Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/nvidia-nemotron-model-reasoning-challenge.ipynb)
 - [AI Mathematical Olympiad - Progress Prize 3](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/ai-mathematical-olympiad-progress-prize-3.ipynb)
+- [LLM Agentic Legal Information Retrieval](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/bm25-tf-idf-reranking-legal-information-retrieval.ipynb)
 - [WiDS Global Datathon 2026](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/wids-global-datathon-2026.ipynb)
 - [ARC Prize 2026 - ARC-AGI-2](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/arc-agi-2-grid-transform-solver-with-beam-search.ipynb)
 - [ARC Prize 2026 - ARC-AGI-3](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/arc-agi-3-hybrid-dsl-program-search-with-planning.ipynb)
