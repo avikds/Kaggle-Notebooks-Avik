@@ -8,6 +8,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 
 - [BirdCLEF+ 2026](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/birdclef-2026-mel-spectrogram-cnn-soundscapes.ipynb)
 - [March Machine Learning Mania 2026](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/march-machine-learning-mania-2026.ipynb)
+- [Measuring Progress Toward AGI - Cognitive Abilities](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/measuring-progress-toward-agi-cognitive-abilities.ipynb)
 - [IMAGINE-decoding-challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/imagine-decoding-challenge.ipynb)
 - [SPR 2026 Mammography Report Classification](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/spr-2026-mammography-report-classification.ipynb)
 - [Hedge fund - Time series forecasting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/time-series-forecasting-with-lag-features-lightgbm.ipynb)
