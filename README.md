@@ -23,6 +23,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [Predict Customer Churn](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/predict-customer-churn.ipynb)
 - [Predicting Irrigation Need](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/predicting-irrigation-need.ipynb)
 - [UMUD Challenge: Muscle Architecture in Ultrasound Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/umud-challenge-muscle-architecture-ultrasound.ipynb)
+- [Triagegeist - Predict emergency severity](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/triagegeist-predict-emergency-severity.ipynb)
 - [Multi-view Pig Posture Recognition](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/multi-view-pig-posture-recognition.ipynb)
 - [Stanford RNA 3D Folding Part 2](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/stanford-rna-3d-folding-part-2.ipynb)
 - [CAFA 6 Protein Function Prediction](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/cafa-6-protein-function-prediction.ipynb)
