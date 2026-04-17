@@ -13,6 +13,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [IMAGINE-decoding-challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/imagine-decoding-challenge.ipynb)
 - [SPR 2026 Mammography Report Classification](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/spr-2026-mammography-report-classification.ipynb)
 - [Hedge fund - Time series forecasting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/time-series-forecasting-with-lag-features-lightgbm.ipynb)
+- [The 2026 NeuroGolf Championship](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/the-2026-neurogolf-championship.ipynb)
 - [NVIDIA Nemotron Model Reasoning Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/nvidia-nemotron-model-reasoning-challenge.ipynb)
 - [AI Mathematical Olympiad - Progress Prize 3](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/ai-mathematical-olympiad-progress-prize-3.ipynb)
 - [LLM Agentic Legal Information Retrieval](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/bm25-tf-idf-reranking-legal-information-retrieval.ipynb)
