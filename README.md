@@ -6,6 +6,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 
 ## [Competitions:](https://www.kaggle.com/competitions)
 
+- [Retroviral Wall Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/retroviral-wall-challenge.ipynb)
 - [BirdCLEF+ 2026](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/birdclef-2026-mel-spectrogram-cnn-soundscapes.ipynb)
 - [March Machine Learning Mania 2026](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/march-machine-learning-mania-2026.ipynb)
 - [The Gemma 4 Good Hackathon](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/the-gemma-4-good-hackathon.ipynb)
