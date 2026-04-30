@@ -12,6 +12,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [The Gemma 4 Good Hackathon](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/the-gemma-4-good-hackathon.ipynb)
 - [Measuring Progress Toward AGI - Cognitive Abilities](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/measuring-progress-toward-agi-cognitive-abilities.ipynb)
 - [IMAGINE-decoding-challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/imagine-decoding-challenge.ipynb)
+- [Pierce the VEIL: Hack It and Crack It Simulation](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/pierce-the-veil-hack-it-and-crack-it-simulation.ipynb)
 - [SPR 2026 Mammography Report Classification](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/spr-2026-mammography-report-classification.ipynb)
 - [Hedge fund - Time series forecasting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/time-series-forecasting-with-lag-features-lightgbm.ipynb)
 - [The 2026 NeuroGolf Championship](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/the-2026-neurogolf-championship.ipynb)
