@@ -6,10 +6,11 @@ Each notebook includes the **solutions** and **implementations** for the officia
 
 ## [Competitions:](https://www.kaggle.com/competitions)
 
-- [Retroviral Wall Challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/retroviral-wall-challenge.ipynb)
-- [BirdCLEF+ 2026](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/birdclef-2026-mel-spectrogram-cnn-soundscapes.ipynb)
-- [March Machine Learning Mania 2026](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/march-machine-learning-mania-2026.ipynb)
-- [The Gemma 4 Good Hackathon](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/the-gemma-4-good-hackathon.ipynb)
+- [Predicting F1 Pit Stops](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-f1-pit-stops.ipynb)
+- [Retroviral Wall Challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/retroviral-wall-challenge.ipynb)
+- [BirdCLEF+ 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/birdclef-2026-mel-spectrogram-cnn-soundscapes.ipynb)
+- [March Machine Learning Mania 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/march-machine-learning-mania-2026.ipynb)
+- [The Gemma 4 Good Hackathon](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-gemma-4-good-hackathon.ipynb)
 - [Measuring Progress Toward AGI - Cognitive Abilities](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/measuring-progress-toward-agi-cognitive-abilities.ipynb)
 - [IMAGINE-decoding-challenge](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/imagine-decoding-challenge.ipynb)
 - [Pierce the VEIL: Hack It and Crack It Simulation](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/pierce-the-veil-hack-it-and-crack-it-simulation.ipynb)
