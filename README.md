@@ -8,6 +8,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 
 - [Predicting F1 Pit Stops](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-f1-pit-stops.ipynb)
 - [Retroviral Wall Challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/retroviral-wall-challenge.ipynb)
+- [ROGII - Wellbore Geology Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/rogii-wellbore-geology-prediction.ipynb)
 - [BirdCLEF+ 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/birdclef-2026-mel-spectrogram-cnn-soundscapes.ipynb)
 - [March Machine Learning Mania 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/march-machine-learning-mania-2026.ipynb)
 - [The Gemma 4 Good Hackathon](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-gemma-4-good-hackathon.ipynb)
