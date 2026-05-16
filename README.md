@@ -20,6 +20,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [SPR 2026 Mammography Report Classification](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/spr-2026-mammography-report-classification.ipynb)
 - [Hedge fund - Time series forecasting](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/time-series-forecasting-with-lag-features-lightgbm.ipynb)
 - [The 2026 NeuroGolf Championship](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-2026-neurogolf-championship.ipynb)
+- [LLM Operator Development and Optimization](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/llm-operator-development-and-optimization.ipynb)
 - [Maze Crawler](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/maze-crawler.ipynb)
 - [Orbit Wars](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/orbit-wars.ipynb)
 - [3LC Multi Vehicle detection Challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/3lc-multi-vehicle-detection-challenge.ipynb)
