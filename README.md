@@ -13,6 +13,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [March Machine Learning Mania 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/march-machine-learning-mania-2026.ipynb)
 - [The Gemma 4 Good Hackathon](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-gemma-4-good-hackathon.ipynb)
 - [Measuring Progress Toward AGI - Cognitive Abilities](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/measuring-progress-toward-agi-cognitive-abilities.ipynb)
+- [The Post-Backprop Challenge: Zero-Gradient Learning for Efficiency](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-post-backprop-challenge.ipynb)
 - [IMAGINE-decoding-challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/imagine-decoding-challenge.ipynb)
 - [Pierce the VEIL: Hack It and Crack It Simulation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pierce-the-veil-hack-it-and-crack-it-simulation.ipynb)
 - [GeoHab 2026 MLWG Competition](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/geohab-2026-mlwg-competition.ipynb)
