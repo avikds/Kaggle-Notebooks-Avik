@@ -1,4 +1,4 @@
-# Kaggle Competitions & Course Notebooks
+# Kaggle Notebooks
 This repository contains my completed notebooks (`.ipynb` files) from various [Kaggle Competitions](https://www.kaggle.com/competitions) and [Kaggle Learn](https://www.kaggle.com/learn) courses. 
 Each notebook includes the **solutions** and **implementations** for the official Kaggle exercises and competitions, covering a wide range of Data Science & Machine Learning topics.
 
@@ -55,6 +55,12 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [Housing Prices Competition for Kaggle Learn Users](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/exercise-machine-learning-competitions.ipynb)
 - [Titanic - Machine Learning from Disaster](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/getting-started-with-titanic.ipynb)
 - [Spaceship Titanic](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/spaceship-titanic.ipynb)
+
+---
+
+## Miscellaneous Notebooks:
+
+- [UFC Fight Data Analysis & Prediction Through 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ufc-fight-data-analysis-and-prediction.ipynb)
 
 ---
 
