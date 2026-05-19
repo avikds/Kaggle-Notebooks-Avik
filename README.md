@@ -1,10 +1,10 @@
 # Kaggle Notebooks
-This repository contains my completed notebooks (`.ipynb` files) from various [Kaggle Competitions](https://www.kaggle.com/competitions) and [Kaggle Learn](https://www.kaggle.com/learn) courses. 
-Each notebook includes the **solutions** and **implementations** for the official Kaggle exercises and competitions, covering a wide range of Data Science & Machine Learning topics.
+This repository contains my completed notebooks (`.ipynb` files) from various [Kaggle Competitions](https://www.kaggle.com/competitions) and [Courses](https://www.kaggle.com/learn). 
+Each notebook includes the **solutions** and **implementations** for the official Kaggle exercises and competitions, covering a wide range of Data Science and Machine Learning topics.
 
 ---
 
-## [Competitions:](https://www.kaggle.com/competitions)
+## Competition Notebooks:
 
 - [Predicting F1 Pit Stops](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-f1-pit-stops.ipynb)
 - [Retroviral Wall Challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/retroviral-wall-challenge.ipynb)
@@ -61,19 +61,20 @@ Each notebook includes the **solutions** and **implementations** for the officia
 ## Miscellaneous Notebooks:
 
 - [UFC Fight Data Analysis & Prediction Through 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ufc-fight-data-analysis-and-prediction.ipynb)
+- [E-Commerce Home Surveillance Market Intelligence](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/home-surveillance-market-intelligence.ipynb)
 
 ---
 
-## [Courses:](https://www.kaggle.com/learn)
+## Course Notebooks:
 
-- ### [Intro to Programming](https://www.kaggle.com/learn/certification/avikdas567/intro-to-programming)
+- **[Intro to Programming](https://www.kaggle.com/learn/certification/avikdas567/intro-to-programming)**
   - [Exercise: Arithmetic and Variables](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-arithmetic-and-variables.ipynb)
   - [Exercise: Functions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-functions.ipynb)
   - [Exercise: Data Types](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-types.ipynb)
   - [Exercise: Conditions and Conditional Statements](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-conditions-and-conditional-statements.ipynb)
   - [Exercise: Intro to Lists](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-intro-to-lists.ipynb)
 
-- ### [Python](https://www.kaggle.com/learn/certification/avikdas567/python)
+- **[Python](https://www.kaggle.com/learn/certification/avikdas567/python)**
   - [Exercise: Syntax, Variables, and Numbers](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-syntax-variables-and-numbers.ipynb)
   - [Exercise: Functions and Getting Help](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-functions-and-getting-help.ipynb)
   - [Exercise: Booleans and Conditionals](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-booleans-and-conditionals.ipynb)
@@ -82,7 +83,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
   - [Exercise: Strings and Dictionaries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-strings-and-dictionaries.ipynb)
   - [Exercise: Working with External Libraries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-working-with-external-libraries.ipynb)
 
-- ### [Pandas](https://www.kaggle.com/learn/certification/avikdas567/pandas)
+- **[Pandas](https://www.kaggle.com/learn/certification/avikdas567/pandas)**
   - [Exercise: Creating, Reading and Writing](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-creating-reading-and-writing.ipynb)
   - [Exercise: Indexing, Selecting & Assigning](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-indexing-selecting-assigning.ipynb)
   - [Exercise: Summary Functions and Maps](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-summary-functions-and-maps.ipynb)
@@ -90,14 +91,14 @@ Each notebook includes the **solutions** and **implementations** for the officia
   - [Exercise: Data Types and Missing Values](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-types-and-missing-values.ipynb)
   - [Exercise: Renaming and Combining](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-renaming-and-combining.ipynb)
 
-- ### [Data Cleaning](https://www.kaggle.com/learn/certification/avikdas567/data-cleaning)
+- **[Data Cleaning](https://www.kaggle.com/learn/certification/avikdas567/data-cleaning)**
   - [Exercise: Handling Missing Values](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-handling-missing-values.ipynb)
   - [Exercise: Scaling and Normalization](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-scaling-and-normalization.ipynb)
   - [Exercise: Parsing Dates](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-parsing-dates.ipynb)
   - [Exercise: Character Encodings](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-character-encodings.ipynb)
   - [Exercise: Inconsistent Data Entry](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-inconsistent-data-entry.ipynb)
 
-- ### [Data Visualization](https://www.kaggle.com/learn/certification/avikdas567/data-visualization)
+- **[Data Visualization](https://www.kaggle.com/learn/certification/avikdas567/data-visualization)**
   - [Exercise: Hello, Seaborn](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-hello-seaborn.ipynb)
   - [Exercise: Line Charts](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-line-charts.ipynb)
   - [Exercise: Bar Charts and Heatmaps](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-bar-charts-and-heatmaps.ipynb)
@@ -106,7 +107,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
   - [Exercise: Choosing Plot Types and Custom Styles](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-choosing-plot-types-and-custom-styles.ipynb)
   - [Exercise: Final Project](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-final-project.ipynb)
 
-- ### [Intro to SQL](https://www.kaggle.com/learn/certification/avikdas567/intro-to-sql)
+- **[Intro to SQL](https://www.kaggle.com/learn/certification/avikdas567/intro-to-sql)**
   - [Exercise: Getting Started With SQL and BigQuery](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-getting-started-with-sql-and-bigquery.ipynb)
   - [Exercise: Select, From & Where](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-select-from-where.ipynb)
   - [Exercise: Group By, Having & Count](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-group-by-having-count.ipynb)
@@ -114,20 +115,20 @@ Each notebook includes the **solutions** and **implementations** for the officia
   - [Exercise: As & With](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-as-with.ipynb)
   - [Exercise: Joining Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-joining-data.ipynb)
 
-- ### [Advanced SQL](https://www.kaggle.com/learn/certification/avikdas567/advanced-sql)
+- **[Advanced SQL](https://www.kaggle.com/learn/certification/avikdas567/advanced-sql)**
   - [Exercise: JOINs and UNIONs](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-joins-and-unions.ipynb)
   - [Exercise: Analytic Functions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-analytic-functions.ipynb)
   - [Exercise: Nested and Repeated Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-nested-and-repeated-data.ipynb)
   - [Exercise: Writing Efficient Queries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-writing-efficient-queries.ipynb)
 
-- ### [Intro to Machine Learning](https://www.kaggle.com/learn/certification/avikdas567/intro-to-machine-learning)
+- **[Intro to Machine Learning](https://www.kaggle.com/learn/certification/avikdas567/intro-to-machine-learning)**
   - [Exercise: Explore Your Data](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-explore-your-data.ipynb)
   - [Exercise: Your First Machine Learning Model](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-your-first-machine-learning-model.ipynb)
   - [Exercise: Model Validation](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-model-validation.ipynb)
   - [Exercise: Underfitting and Overfitting](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-underfitting-and-overfitting.ipynb)
   - [Exercise: Random Forests](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-random-forests.ipynb)
 
-- ### [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/avikdas567/intermediate-machine-learning)
+- **[Intermediate Machine Learning](https://www.kaggle.com/learn/certification/avikdas567/intermediate-machine-learning)**
   - [Exercise: Introduction](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-introduction.ipynb)
   - [Exercise: Missing Values](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-missing-values.ipynb)
   - [Exercise: Categorical Variables](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-categorical-variables.ipynb)
@@ -136,7 +137,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
   - [Exercise: XGBoost](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-xgboost.ipynb)
   - [Exercise: Data Leakage](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-leakage.ipynb)
 
-- ### [Intro to Deep Learning](https://www.kaggle.com/learn/certification/avikdas567/intro-to-deep-learning)
+- **[Intro to Deep Learning](https://www.kaggle.com/learn/certification/avikdas567/intro-to-deep-learning)**
   - [Exercise: A Single Neuron](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-a-single-neuron.ipynb)
   - [Exercise: Deep Neural Networks](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-deep-neural-networks.ipynb)
   - [Exercise: Stochastic Gradient Descent](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-stochastic-gradient-descent.ipynb)
@@ -144,7 +145,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
   - [Exercise: Dropout and Batch Normalization](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-dropout-and-batch-normalization.ipynb)
   - [Exercise: Binary Classification](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-binary-classification.ipynb)
 
-- ### [Intro to AI Ethics](https://www.kaggle.com/learn/certification/avikdas567/intro-to-ai-ethics)
+- **[Intro to AI Ethics](https://www.kaggle.com/learn/certification/avikdas567/intro-to-ai-ethics)**
   - [Exercise: Human-Centered Design for AI](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-human-centered-design-for-ai.ipynb)
   - [Exercise: Identifying Bias in AI](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-identifying-bias-in-ai.ipynb)
   - [Exercise: AI Fairness](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-ai-fairness.ipynb)
