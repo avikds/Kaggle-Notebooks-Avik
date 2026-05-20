@@ -62,6 +62,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 
 - [UFC Fight Data Analysis & Prediction Through 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ufc-fight-data-analysis-and-prediction.ipynb)
 - [E-Commerce Home Surveillance Market Intelligence](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/home-surveillance-market-intelligence.ipynb)
+- [Global Temperature Trends - Climate Analytics & Forecasting](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-temperature-trends-and-climate-forecasting.ipynb)
 
 ---
 
