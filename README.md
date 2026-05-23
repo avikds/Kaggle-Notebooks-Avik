@@ -65,6 +65,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [Worldwide Temperature Trends & Climate Forecasting](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-temperature-trends-and-climate-forecasting.ipynb)
 - [Global Renewable Energy Shift Analysis 2000-2025](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-renewable-energy-shift-analysis.ipynb)
 - [Global Earthquake Analytics Using Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-earthquake-analytics.ipynb)
+- [Anime and Manga Analytics 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/anime-manga-analytics.ipynb)
 
 ---
 
