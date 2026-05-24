@@ -1,5 +1,5 @@
 # Kaggle Notebooks
-This repository contains my completed notebooks (`.ipynb` files) from various [Kaggle Competitions](https://www.kaggle.com/competitions) and [Courses](https://www.kaggle.com/learn). 
+This repository contains my notebooks (`.ipynb` files) from Kaggle [Competitions](https://www.kaggle.com/competitions) and [Courses](https://www.kaggle.com/learn). 
 Each notebook includes the **solutions** and **implementations** for the official Kaggle exercises and competitions, covering a wide range of Data Science, AI and Machine Learning topics.
 
 ---
@@ -66,6 +66,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [Global Renewable Energy Shift Analysis 2000-2025](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-renewable-energy-shift-analysis.ipynb)
 - [Global Earthquake Analytics Using Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-earthquake-analytics.ipynb)
 - [Anime and Manga Analytics 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/anime-manga-analytics.ipynb)
+- [Exploring the Open Source AI Ecosystem](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/github-ai-ecosystem-analysis.ipynb)
 
 ---
 
