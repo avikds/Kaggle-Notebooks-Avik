@@ -67,6 +67,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [Global Earthquake Analytics Using Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-earthquake-analytics.ipynb)
 - [Anime and Manga Analytics 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/anime-manga-analytics.ipynb)
 - [Exploring the Open Source AI Ecosystem](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/github-ai-ecosystem-analysis.ipynb)
+- [AI Generated Face Detection using EfficientNet](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/deepfake-detection.ipynb)
 
 ---
 
