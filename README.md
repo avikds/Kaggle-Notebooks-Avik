@@ -1,6 +1,23 @@
-# Kaggle Notebooks
+<h1 align="center">Kaggle Notebooks</h1>
+
 This repository contains my notebooks (`.ipynb` files) from Kaggle [Competitions](https://www.kaggle.com/competitions) and [Courses](https://www.kaggle.com/learn). 
 Each notebook includes the **solutions** and **implementations** for the official Kaggle exercises and competitions, covering a wide range of Data Science, AI and Machine Learning topics.
+
+---
+
+## Miscellaneous Notebooks:
+
+- [UFC Fight Data Analysis & Prediction Through 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ufc-fight-data-analysis-and-prediction.ipynb)
+- [E-Commerce Home Surveillance Market Intelligence](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/home-surveillance-market-intelligence.ipynb)
+- [Worldwide Temperature Trends & Climate Forecasting](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-temperature-trends-and-climate-forecasting.ipynb)
+- [Global Renewable Energy Shift Analysis 2000-2025](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-renewable-energy-shift-analysis.ipynb)
+- [Global Earthquake Analytics Using Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-earthquake-analytics.ipynb)
+- [Anime and Manga Analytics 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/anime-manga-analytics.ipynb)
+- [Exploring the Open Source AI Ecosystem](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/github-ai-ecosystem-analysis.ipynb)
+- [AI Generated Face Detection using EfficientNet](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/deepfake-detection.ipynb)
+- [Global Humanoid Robotics Intelligence Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/humanoid-robotics-intelligence-analysis.ipynb)
+- [Cosmic Object Classification with DESI DR1](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cosmic-object-classification-with-desi-dr1.ipynb)
+- [Exoplanet Archive Intelligence: EDA, ML and Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/exoplanet-archive-intelligence.ipynb)
 
 ---
 
@@ -55,22 +72,6 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [Housing Prices Competition for Kaggle Learn Users](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/exercise-machine-learning-competitions.ipynb)
 - [Titanic - Machine Learning from Disaster](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/getting-started-with-titanic.ipynb)
 - [Spaceship Titanic](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/spaceship-titanic.ipynb)
-
----
-
-## Miscellaneous Notebooks:
-
-- [UFC Fight Data Analysis & Prediction Through 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ufc-fight-data-analysis-and-prediction.ipynb)
-- [E-Commerce Home Surveillance Market Intelligence](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/home-surveillance-market-intelligence.ipynb)
-- [Worldwide Temperature Trends & Climate Forecasting](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-temperature-trends-and-climate-forecasting.ipynb)
-- [Global Renewable Energy Shift Analysis 2000-2025](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-renewable-energy-shift-analysis.ipynb)
-- [Global Earthquake Analytics Using Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-earthquake-analytics.ipynb)
-- [Anime and Manga Analytics 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/anime-manga-analytics.ipynb)
-- [Exploring the Open Source AI Ecosystem](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/github-ai-ecosystem-analysis.ipynb)
-- [AI Generated Face Detection using EfficientNet](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/deepfake-detection.ipynb)
-- [Global Humanoid Robotics Intelligence Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/humanoid-robotics-intelligence-analysis.ipynb)
-- [Cosmic Object Classification with DESI DR1](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cosmic-object-classification-with-desi-dr1.ipynb)
-- [Exoplanet Archive Intelligence: EDA, ML and Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/exoplanet-archive-intelligence.ipynb)
 
 ---
 
