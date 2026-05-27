@@ -70,6 +70,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [AI Generated Face Detection using EfficientNet](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/deepfake-detection.ipynb)
 - [Global Humanoid Robotics Intelligence Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/humanoid-robotics-intelligence-analysis.ipynb)
 - [Cosmic Object Classification with DESI DR1](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cosmic-object-classification-with-desi-dr1.ipynb)
+- [Exoplanet Archive Intelligence: EDA, ML and Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/exoplanet-archive-intelligence.ipynb)
 
 ---
 
