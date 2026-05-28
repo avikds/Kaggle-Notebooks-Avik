@@ -18,6 +18,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [Global Humanoid Robotics Intelligence Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/humanoid-robotics-intelligence-analysis.ipynb)
 - [Cosmic Object Classification with DESI DR1](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cosmic-object-classification-with-desi-dr1.ipynb)
 - [Exoplanet Archive Intelligence: EDA, ML and Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/exoplanet-archive-intelligence.ipynb)
+- [E-commerce Pokémon Card Pricing Analysis and Price Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pokemon-card-price-prediction-and-eda.ipynb)
 
 ---
 
