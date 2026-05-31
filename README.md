@@ -20,6 +20,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [Exoplanet Archive Intelligence: EDA, ML and Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/exoplanet-archive-intelligence.ipynb)
 - [E-commerce Pokémon Card Pricing Analysis and Price Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pokemon-card-price-prediction-and-eda.ipynb)
 - [Exploring NASA APOD with NLP and Topic Models](https://www.kaggle.com/code/avikdas567/exploring-nasa-apod-with-nlp-and-topic-models)
+- [Urban Obstacle Detection: Visual Analytics & EDA](https://www.kaggle.com/code/avikdas567/urban-obstacle-detection-visual-analytics-eda)
 
 ---
 
