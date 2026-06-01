@@ -21,6 +21,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [E-commerce Pokémon Card Pricing Analysis and Price Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pokemon-card-price-prediction-and-eda.ipynb)
 - [Exploring NASA APOD with NLP and Topic Models](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/exploring-nasa-apod-with-nlp.ipynb)
 - [Urban Obstacle Detection: Visual Analytics & EDA](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/urban-obstacle-detection-visual-analytics-eda.ipynb)
+- [Global Economic Resilience & Growth Intelligence](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-economic-resilience-and-growth-intelligence.ipynb)
 
 ---
 
