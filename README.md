@@ -26,6 +26,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 
 ## Competition Notebooks:
 
+- [Predicting Stellar Class (Playground Series - Season 6 Episode 6)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-stellar-class.ipynb)
 - [Predicting F1 Pit Stops](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-f1-pit-stops.ipynb)
 - [Retroviral Wall Challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/retroviral-wall-challenge.ipynb)
 - [ROGII - Wellbore Geology Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/rogii-wellbore-geology-prediction.ipynb)
