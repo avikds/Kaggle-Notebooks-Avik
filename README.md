@@ -25,6 +25,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [Three Decades of UFC Data, Trends and Insights](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ufc-fight-statistics-analysis.ipynb)
 - [Nuclear Power and the Global Energy Transition](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nuclear-power-and-global-energy-transition.ipynb)
 - [Climate Risk & Renewable Energy in 190 Capitals](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-climate-risk-energy-analysis.ipynb)
+- [New York Real Estate: Advanced Dual-AVM & NLP Model](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ny-real-estate-intelligence.ipynb)
 
 ---
 
