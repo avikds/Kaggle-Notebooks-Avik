@@ -24,6 +24,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [Global Economic Resilience & Growth Intelligence](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-economic-resilience-and-growth-intelligence.ipynb)
 - [Three Decades of UFC Data, Trends and Insights](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ufc-fight-statistics-analysis.ipynb)
 - [Nuclear Power and the Global Energy Transition](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nuclear-power-and-global-energy-transition.ipynb)
+- [Climate Risk & Renewable Energy in 190 Capitals](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-climate-risk-energy-analysis.ipynb)
 
 ---
 
