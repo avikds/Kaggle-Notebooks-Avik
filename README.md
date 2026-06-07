@@ -28,6 +28,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [New York Real Estate: Advanced Dual-AVM & NLP Model](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ny-real-estate-intelligence.ipynb)
 - [Global Craft Brewery Ecosystem: EDA and Insights](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-craft-brewery-ecosystem.ipynb)
 - [Biomedical Text Analytics & Open Access Inferences](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/biomedical-text-analytics-open-access-inferences.ipynb)
+- [Modern AI Research: Bibliometric & Semantic Space](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/arxiv-ai-bibliometrics-semantic-search.ipynb)
 
 ---
 
