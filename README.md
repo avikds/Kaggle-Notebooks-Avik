@@ -30,6 +30,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [Biomedical Text Analytics & Open Access Inferences](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/biomedical-text-analytics-open-access-inferences.ipynb)
 - [Modern AI Research: Bibliometric & Semantic Space](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/arxiv-ai-bibliometrics-semantic-search.ipynb)
 - [Predicting Scientific Misconduct & Retraction Lag](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/scientific-misconduct-retraction-lag.ipynb)
+- [Mapping the Open-Weight LLM Landscape: Deep EDA](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/huggingface-llm-landscape-analytics.ipynb)
 
 ---
 
