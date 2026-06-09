@@ -33,6 +33,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [Mapping the Open-Weight LLM Landscape: Deep EDA](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/huggingface-llm-landscape-analytics.ipynb)
 - [New Jersey Real Estate: Multimodal Price Prediction Engine](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nj-real-estate-multimodal-prediction.ipynb)
 - [Illinois Housing: Advanced NLP & Gradient Boosting](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/illinois-housing-nlp-gradient-boosting.ipynb)
+- [Algorithmic Memory Valuation and Market Analytics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/algorithmic-memory-valuation-analytics.ipynb)
 
 ---
 
