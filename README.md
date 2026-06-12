@@ -34,6 +34,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 - [New Jersey Real Estate: Multimodal Price Prediction Engine](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nj-real-estate-multimodal-prediction.ipynb)
 - [Illinois Housing: Advanced NLP & Gradient Boosting](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/illinois-housing-nlp-gradient-boosting.ipynb)
 - [Algorithmic Memory Valuation and Market Analytics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/algorithmic-memory-valuation-analytics.ipynb)
+- [Vesuvius Volcanic Seismology and ML Modeling](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/vesuvius-volcanic-seismology-ml.ipynb)
 
 ---
 
