@@ -7,6 +7,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 
 ## Miscellaneous Notebooks:
 
+- [LLM Hallucination Analysis & Risk Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/llm-hallucination-analysis-prediction.ipynb)
 - [Anime Score Prediction: Tabular & Text Pipeline](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/anime-score-prediction-pipeline.ipynb)
 - [Global Electric Vehicle & Battery Supply Chain Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-ev-battery-supply-chain-analysis.ipynb)
 - [Vesuvius Volcanic Seismology and ML Modeling](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/vesuvius-volcanic-seismology-ml.ipynb)
