@@ -7,6 +7,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 
 ## Miscellaneous Notebooks:
 
+- [RPA ROI Optimization: Physics Features & Ensembles](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/rpa-roi-optimization.ipynb)
 - [LLM Hallucination Analysis & Risk Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/llm-hallucination-analysis-prediction.ipynb)
 - [Anime Score Prediction: Tabular & Text Pipeline](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/anime-score-prediction-pipeline.ipynb)
 - [Global Electric Vehicle & Battery Supply Chain Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-ev-battery-supply-chain-analysis.ipynb)
