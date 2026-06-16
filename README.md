@@ -7,6 +7,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 
 ## Miscellaneous Notebooks:
 
+- [Coffee Moisture Prediction via FT-NIR Spectroscopy](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/coffee-moisture-ftnir-prediction.ipynb)
 - [Washington Real Estate: Multimodal AVM Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/washington-real-estate-multimodal-avm.ipynb)
 - [CPSC Product Recall: NLP and Multi-Modal Modeling](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cpsc-product-recall-nlp-multimodal.ipynb)
 - [ArXiv AI Analytics: Transformers & NLP Clustering](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/arxiv-ai-transformer-nlp.ipynb)
