@@ -7,6 +7,7 @@ Each notebook includes the **solutions** and **implementations** for the officia
 
 ## Miscellaneous Notebooks:
 
+- [Global Energy Economics & Carbon Trajectories](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-energy-economics-carbon-trajectories.ipynb)
 - [CISA KEV Data Pipeline and Ransomware Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cisa-kev-pipeline-ransomware-prediction.ipynb)
 - [YOLOv8 Counter-UAS Multi-Class Drone Detection](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/yolov8-counter-uas-drone-detection.ipynb)
 - [PyPI AI/ML Packages: Download Growth & Forecasting](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pypi-ai-ml-download-growth-forecasting.ipynb)
