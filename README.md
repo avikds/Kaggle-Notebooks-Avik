@@ -1,5 +1,6 @@
-# Kaggle Notebooks:
+# Kaggle Notebooks
 
+- [Predicting AI/ML Citation Trajectories with NLP](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ai-ml-citation-prediction-nlp.ipynb)
 - [NASA EONET Global Natural Events: Geospatial Modeling & Predictive Analytics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-eonet-hazard-deep-learning.ipynb)
 - [Space Debris Clustering & Ensemble Classification](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/space-debris-clustering-classification.ipynb)
 - [Global Energy Economics & Carbon Trajectories](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-energy-economics-carbon-trajectories.ipynb)
@@ -45,7 +46,7 @@
 
 ---
 
-# Competition Notebooks:
+# Competition Notebooks
 
 - [Neural Debris Removal in Streak Detection Models](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/space-debris-unlearning-retinanet.ipynb)
 - [Predicting Stellar Class (Playground Series - Season 6 Episode 6)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-stellar-class.ipynb)
@@ -104,7 +105,7 @@
 
 ---
 
-# Course Notebooks:
+# Course Notebooks
 
 - **[Intro to Programming](https://www.kaggle.com/learn/certification/avikdas567/intro-to-programming)**
   - [Exercise: Arithmetic and Variables](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-arithmetic-and-variables.ipynb)
