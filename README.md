@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Volcanic Eruption Intelligence & Risk Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/volcanic-eruption-intelligence-risk-prediction.ipynb)
 - [Predicting AI/ML Citation Trajectories with NLP](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ai-ml-citation-prediction-nlp.ipynb)
 - [NASA EONET Global Natural Events: Geospatial Modeling & Predictive Analytics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-eonet-hazard-deep-learning.ipynb)
 - [Space Debris Clustering & Ensemble Classification](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/space-debris-clustering-classification.ipynb)
