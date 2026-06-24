@@ -1,5 +1,5 @@
 # Kaggle Notebooks
-
+ 
 - [Quantifying Geopolitical Risk & Market Volatility](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/geopolitical-risk-market-volatility.ipynb)
 - [Multi-Agent Financial Intelligence Audit Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-agent-financial-intelligence-audit.ipynb)
 - [Volcanic Eruption Intelligence & Risk Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/volcanic-eruption-intelligence-risk-prediction.ipynb)
