@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Solar Flare Risk Prediction: PyTorch & LightGBM](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-solar-flares-predictive-modeling.ipynb)
 - [FDA FAERS Signal Detection & Risk Classifier](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/fda-faers-signal-detection-risk-classifier.ipynb)
 - [Quantifying Geopolitical Risk & Market Volatility](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/geopolitical-risk-market-volatility.ipynb)
 - [Multi-Agent Financial Intelligence Audit Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-agent-financial-intelligence-audit.ipynb)
