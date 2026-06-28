@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Satellite Orbit Analytics & AI Anomaly Detection](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/satellite-orbit-analytics-pipeline.ipynb)
 - [NASA Asteroid Threat Modeling & Orbital Dynamics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-asteroid-threat-modeling.ipynb)
 - [Solar Flare Risk Prediction: PyTorch & LightGBM](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-solar-flares-predictive-modeling.ipynb)
 - [FDA FAERS Signal Detection & Risk Classifier](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/fda-faers-signal-detection-risk-classifier.ipynb)
