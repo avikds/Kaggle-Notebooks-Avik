@@ -1,6 +1,6 @@
 # Kaggle Notebooks
 
-- [NASA Asteroid Threat Modeling: LightGBM & PyTorch](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-asteroid-threat-modeling.ipynb)
+- [NASA Asteroid Threat Modeling & Orbital Dynamics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-asteroid-threat-modeling.ipynb)
 - [Solar Flare Risk Prediction: PyTorch & LightGBM](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-solar-flares-predictive-modeling.ipynb)
 - [FDA FAERS Signal Detection & Risk Classifier](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/fda-faers-signal-detection-risk-classifier.ipynb)
 - [Quantifying Geopolitical Risk & Market Volatility](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/geopolitical-risk-market-volatility.ipynb)
