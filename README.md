@@ -55,6 +55,7 @@
 
 # Competition Notebooks
 
+- [Ground Cover Segmentation Challenge, by Duality AI+Lunate AI](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/geospatial-sim2real-segmentation.ipynb)
 - [Neural Debris Removal in Streak Detection Models](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/space-debris-unlearning-retinanet.ipynb)
 - [Predicting Stellar Class (Playground Series - Season 6 Episode 6)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-stellar-class.ipynb)
 - [Predicting F1 Pit Stops (Playground Series - Season 6 Episode 5)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-f1-pit-stops.ipynb)
