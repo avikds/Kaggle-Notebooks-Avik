@@ -64,6 +64,7 @@
 - [ROGII - Wellbore Geology Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/rogii-wellbore-geology-prediction.ipynb)
 - [BirdCLEF+ 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/birdclef-2026-mel-spectrogram-cnn-soundscapes.ipynb)
 - [March Machine Learning Mania 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/march-machine-learning-mania-2026.ipynb)
+- [The Great India Quiz Challenge 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-quiz-success-f1-tuning.ipynb)
 - [The Gemma 4 Good Hackathon](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-gemma-4-good-hackathon.ipynb)
 - [Measuring Progress Toward AGI - Cognitive Abilities](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/measuring-progress-toward-agi-cognitive-abilities.ipynb)
 - [The Post-Backprop Challenge: Zero-Gradient Learning for Efficiency](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-post-backprop-challenge.ipynb)
