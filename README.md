@@ -64,6 +64,7 @@
 - [AI Agent Security - Multi-Step Tool Attacks](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi_step_agent_red_teaming.ipynb)
 - [Retroviral Wall Challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/retroviral-wall-challenge.ipynb)
 - [ROGII - Wellbore Geology Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/rogii-wellbore-geology-prediction.ipynb)
+- [Soccer Feature Engineering Hackathon](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/advanced-soccer-feature-engineering.ipynb)
 - [MLGenX Bioreasoning Challenge - Track A](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/siamese-attention-zero-overlap.ipynb)
 - [MLGenX Bioreasoning Challenge - Track B](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-agent-tools-zero-overlap.ipynb)
 - [MLGenX Bioreasoning Challenge - Track C](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/sequence-attention-tuning-zero-overlap.ipynb)
