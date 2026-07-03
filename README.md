@@ -67,6 +67,7 @@
 - [Retroviral Wall Challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/retroviral-wall-challenge.ipynb)
 - [ROGII - Wellbore Geology Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/rogii-wellbore-geology-prediction.ipynb)
 - [Soccer Feature Engineering Hackathon](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/advanced-soccer-feature-engineering.ipynb)
+- [CUHK-X Competition Large Model Track](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cuhk_x_large_model_track_pipeline.ipynb)
 - [CUHK-X Competition Small Model Track](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cuhk-x-har-3dcnn-bigru.ipynb)
 - [MLGenX Bioreasoning Challenge - Track A](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/siamese-attention-zero-overlap.ipynb)
 - [MLGenX Bioreasoning Challenge - Track B](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-agent-tools-zero-overlap.ipynb)
