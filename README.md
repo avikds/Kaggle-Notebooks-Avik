@@ -70,6 +70,7 @@
 - [Soccer Feature Engineering Hackathon](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/advanced-soccer-feature-engineering.ipynb)
 - [CUHK-X Competition Large Model Track](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cuhk_x_large_model_track_pipeline.ipynb)
 - [CUHK-X Competition Small Model Track](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cuhk-x-har-3dcnn-bigru.ipynb)
+- [Predicting Soil Grain Size Distributions from Images](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/soil-grain-size-prediction-ensemble.ipynb)
 - [MLGenX Bioreasoning Challenge - Track A](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/siamese-attention-zero-overlap.ipynb)
 - [MLGenX Bioreasoning Challenge - Track B](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-agent-tools-zero-overlap.ipynb)
 - [MLGenX Bioreasoning Challenge - Track C](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/sequence-attention-tuning-zero-overlap.ipynb)
