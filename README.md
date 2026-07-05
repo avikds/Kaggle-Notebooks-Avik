@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Cybersecurity Analytics: CVE Risk & Text Modeling](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cybersecurity-analytics-cve-risk-modeling.ipynb)
 - [Predicting Asian Macroeconomics: NLP, CNN & LSTM](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-asian-macroeconomics.ipynb)
 - [Clinical Protocol Intelligence: Advanced ML & NLP](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/clinical-protocol-intelligence-ml-nlp.ipynb)
 - [Satellite Orbit Analytics & AI Anomaly Detection](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/satellite-orbit-analytics-pipeline.ipynb)
