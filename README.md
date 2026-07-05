@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Predicting Asian Macroeconomics: NLP, CNN & LSTM](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-asian-macroeconomics.ipynb)
 - [Clinical Protocol Intelligence: Advanced ML & NLP](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/clinical-protocol-intelligence-ml-nlp.ipynb)
 - [Satellite Orbit Analytics & AI Anomaly Detection](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/satellite-orbit-analytics-pipeline.ipynb)
 - [NASA Asteroid Threat Modeling & Orbital Dynamics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-asteroid-threat-modeling.ipynb)
