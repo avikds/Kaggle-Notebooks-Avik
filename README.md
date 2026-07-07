@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Agentic RAG Hallucination Detection & Answer Validation System](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/agentic-rag-hallucination-detection.ipynb)
 - [Quant Modeling: AI Chips, Nuclear & Energy Grid](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ai-chips-energy-nuclear-quant-modeling.ipynb)
 - [Global Tsunami Severity Prediction & Geospatial ML](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-tsunami-severity-prediction.ipynb)
 - [Cybersecurity Analytics: CVE Risk & Text Modeling](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cybersecurity-analytics-cve-risk-modeling.ipynb)
