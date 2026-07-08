@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Predicting Coffee Ecophysiology via ML & PyTorch](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/coffee-mulch-ecophysiology-ml-pytorch.ipynb)
 - [Global Energy Dynamics: Transition Analytics and Predictive Modeling](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/global-energy-transition-grid-carbon.ipynb)
 - [Caterpillar Vs Volvo Group: Industrial Time-Series Analytics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/industrial-stock-analytics-cat-volvo.ipynb)
 - [Agentic RAG Hallucination Detection & Answer Validation System](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/agentic-rag-hallucination-detection.ipynb)
