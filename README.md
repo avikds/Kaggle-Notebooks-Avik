@@ -1,6 +1,6 @@
 # Kaggle Notebooks
 
-- [Relativistic Kinematics & Deep ResNet Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/relativistic-kinematics-deep-resnet.ipynb)
+- [Relativistic Kinematics & Deep ResNet Framework for Proton Collisions](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/relativistic-kinematics-deep-resnet.ipynb)
 - [Fe-Ni-Si Core Velocity Modeling via Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/fe-ni-si-core-velocity-modeling.ipynb)
 - [Bedrock Moisture Dynamics: GRU & Boost Ensembles](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/bedrock-moisture-dynamics.ipynb)
 - [Z-Scheme CuPc/TiO2 Spectroscopy & ML Pipeline](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cupc-tio2-heterojunction-spectroscopy.ipynb)
