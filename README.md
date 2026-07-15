@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Multi-Wavelength Spectroscopic Characterization of Heavy Metal Ions](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-wavelength-metal-classification.ipynb)
 - [Relativistic Kinematics & Deep ResNet Framework for Proton Collisions](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/relativistic-kinematics-deep-resnet.ipynb)
 - [Fe-Ni-Si Core Velocity Modeling via Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/fe-ni-si-core-velocity-modeling.ipynb)
 - [Bedrock Moisture Dynamics: GRU & Boost Ensembles](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/bedrock-moisture-dynamics.ipynb)
