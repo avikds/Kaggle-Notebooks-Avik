@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Lithium-Ion Crystalline Symmetry & Property Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/li-ion-battery-symmetry-prediction.ipynb)
 - [Steel Fatigue Strength Prediction: Ensembles & Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/steel-fatigue-strength-prediction.ipynb)
 - [Exoplanetary Spectroscopy Analysis: Deep Atmospheric Emulation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/exoplanet-spectroscopy-neural-network-emulator.ipynb)
 - [Multi-Wavelength Spectroscopic Characterization of Heavy Metal Ions](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-wavelength-metal-classification.ipynb)
