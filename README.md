@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Predictive Metallurgy and Advanced Characterization of Iron Alloys](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predictive-metallurgy-iron-alloys.ipynb)
 - [Materials Informatics for Lithium-Ion Battery Cathode Candidates](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/li-ion-battery-symmetry-prediction.ipynb)
 - [Steel Fatigue Strength Prediction: Ensembles & Deep Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/steel-fatigue-strength-prediction.ipynb)
 - [Exoplanetary Spectroscopy Analysis: Deep Atmospheric Emulation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/exoplanet-spectroscopy-neural-network-emulator.ipynb)
