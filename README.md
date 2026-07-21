@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Gamma Spectroscopy Nuclear Material Identification & Isotopic Characterization](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/gamma-spectroscopy-nuclear-material-id.ipynb)
 - [High-Precision Atmospheric N2O Detection and Spectral Deconvolution](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/atmospheric-n2o-spectral-deconvolution.ipynb)
 - [Predictive Metallurgy and Advanced Characterization of Iron Alloys](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predictive-metallurgy-iron-alloys.ipynb)
 - [Materials Informatics for Lithium-Ion Battery Cathode Candidates](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/li-ion-battery-symmetry-prediction.ipynb)
