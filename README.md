@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Planetary Defense Analysis and Hazard Classification for Asteroids](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/planetary-defense-asteroid-classification.ipynb)
 - [Astrophysical Scaling Relations and Isotopologue Dynamics in Galactic GMCs](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/galactic-co-isotopologue-ml-synthesis.ipynb)
 - [Gamma-Ray Spectroscopy for Nuclear Material Identification](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/gamma-spectroscopy-nuclear-material-id.ipynb)
 - [High-Precision Atmospheric N2O Detection and Spectral Deconvolution](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/atmospheric-n2o-spectral-deconvolution.ipynb)
