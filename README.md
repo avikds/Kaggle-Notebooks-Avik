@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Kinematic Reconstruction of W→ev Production in Proton-Proton Collisions](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/kinematic-analysis-w-bosons.ipynb)
 - [Astrophysical Classification of Degenerate Stellar Remnants | Gaia DR3](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/degenerate-stellar-remnants-classification.ipynb)
 - [Surrogate Modeling & Inverse Design of TiO2 Metasurface Optical Filters](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/metasurface-optical-filters-surrogate-modeling.ipynb)
 - [ChemSafety-32k: Multi-Label Chemical Hazard Prediction & Safety Benchmarking](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-label-chemical-hazard-prediction.ipynb)
