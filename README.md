@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Incompressible Navier-Stokes Flow Reconstruction: Physics-Informed Neural Networks](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pinn-navier-stokes-flow-reconstruction.ipynb)
 - [Kinematic Reconstruction of W→ev Production in Proton-Proton Collisions](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/kinematic-analysis-w-bosons.ipynb)
 - [Astrophysical Classification of Degenerate Stellar Remnants | Gaia DR3](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/degenerate-stellar-remnants-classification.ipynb)
 - [Surrogate Modeling & Inverse Design of TiO2 Metasurface Optical Filters](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/metasurface-optical-filters-surrogate-modeling.ipynb)
