@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Conjugated Oligomer Photostability: Excited-State Spectroscopy](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/conjugated-oligomer-photostability.ipynb)
 - [Incompressible Navier-Stokes Flow Reconstruction: Physics-Informed Neural Networks](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pinn-navier-stokes-flow-reconstruction.ipynb)
 - [Kinematic Reconstruction of W→ev Production in Proton-Proton Collisions](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/kinematic-analysis-w-bosons.ipynb)
 - [Astrophysical Classification of Degenerate Stellar Remnants | Gaia DR3](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/degenerate-stellar-remnants-classification.ipynb)
