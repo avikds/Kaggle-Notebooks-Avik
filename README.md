@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Relativistic Kinematics & Discrimination of J/ψ and Upsilon in CMS Di-Muon Decays](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cms-jpsi-upsilon-kinematic-discrimination.ipynb)
 - [Organic Laser Emitters: Photophysical Feature Engineering & QSPR Benchmarking](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/organic-laser-emitters-dft-qspr.ipynb)
 - [Conjugated Oligomer Photostability: Excited-State Spectroscopy](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/conjugated-oligomer-photostability.ipynb)
 - [Incompressible Navier-Stokes Flow Reconstruction: Physics-Informed Neural Networks](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pinn-navier-stokes-flow-reconstruction.ipynb)
