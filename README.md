@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Degradation Analysis and Prognostic Health Management of Lithium-Ion Cells](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-battery-degradation-soh-rul.ipynb)
 - [Relativistic Kinematics & Discrimination of J/ψ and Upsilon in CMS Di-Muon Decays](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cms-jpsi-upsilon-kinematic-discrimination.ipynb)
 - [Organic Laser Emitters: Photophysical Feature Engineering & QSPR Benchmarking](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/organic-laser-emitters-dft-qspr.ipynb)
 - [Conjugated Oligomer Photostability: Excited-State Spectroscopy](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/conjugated-oligomer-photostability.ipynb)
