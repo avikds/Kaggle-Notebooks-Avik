@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [High-Throughput Materials Informatics for Thin-Film Combinatorial Libraries](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/htem-thin-film-materials-informatics.ipynb)
 - [A Physics-Informed, Quantum-Enhanced Framework for Superconducting Tc Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pinn-qml-superconductor-discovery.ipynb)
 - [Degradation Analysis and Prognostic Health Management of Lithium-Ion Cells](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-battery-degradation-soh-rul.ipynb)
 - [Relativistic Kinematics & Discrimination of J/ψ and Upsilon in CMS Di-Muon Decays](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cms-jpsi-upsilon-kinematic-discrimination.ipynb)
