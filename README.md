@@ -1,5 +1,5 @@
 # Kaggle Notebooks
-
+ 
 - [Half-Metallic Heusler Alloys for Advanced Spintronics: Physics-Informed ML](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/spintronic-heusler-alloys-pinn-dft-informatics.ipynb)
 - [High-Throughput Materials Informatics for Thin-Film Combinatorial Libraries](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/htem-thin-film-materials-informatics.ipynb)
 - [A Physics-Informed, Quantum-Enhanced Framework for Superconducting Tc Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pinn-qml-superconductor-discovery.ipynb)
