@@ -123,6 +123,7 @@
 
 # Competition Notebooks
 
+- [Enveda CASMI 2026: Physics-Informed Spectral Transformer & Reference Library Retrieval](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/physics-informed-spectral-transformer-retrieval.ipynb)
 - [Affine-Lattice Packing & Non-Linear Boundary Compaction for Congruent Ellipses](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/affine-lattice-ellipse-packing.ipynb)
 - [Predicting Electric Vehicle Purchases (Playground Series - Season 6 Episode 9)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-electric-vehicle-purchases.ipynb)
 - [Coordinated Collusion & Value-Transfer Detection in No-Limit Texas Hold'em](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/detect-suspicious-value-transfers-in-poker.ipynb)
