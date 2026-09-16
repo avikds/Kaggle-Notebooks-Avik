@@ -128,7 +128,7 @@
 - [Cardiovascular Risk Stratification and Biomarker Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cardiovascular-risk-prediction-biomarker-analysis.ipynb)
 - [Advanced Soccer Feature Engineering Pipeline](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/advanced-soccer-feature-engineering.ipynb)
 - [CROO A2A Protocol: Graph Topology & Neural Router](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/croo-a2a-topology-neural-router.ipynb)
-- [Pokémon TCG AI Battle Challenge: Strategy & Agentic Optimization Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ptcg-ai-battle-challenge-strategy.ipynb)
+- [Pokémon TCG AI Battle Challenge: Strategy & Agentic Optimization](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ptcg-ai-battle-challenge-strategy.ipynb)
 - [Enterprise Financial Intelligence & Compliance Multi-Agent Audit Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-agent-financial-intelligence-audit.ipynb)
 - [BenchFlow - Agent Skill Lift: Unified Safety-Constrained Skill Optimization](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/benchflow-safety-constrained-agent-skill-lift.ipynb)
 - [The Post-Backprop Challenge: Zero-Gradient Learning for Efficiency](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-post-backprop-challenge.ipynb)
