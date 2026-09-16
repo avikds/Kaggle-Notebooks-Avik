@@ -121,6 +121,24 @@
 
 ---
 
+## Hackathon Notebooks
+
+- [Reverse-Engineering On-Chain Solana Sniper Bot](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solana-sniper-bot-reverse-engineering.ipynb)
+- [POMDP Pathfinding via Multi-Agent Deep Q-Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/battlesnake-blackout-2026.ipynb)
+- [Cardiovascular Risk Stratification and Biomarker Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cardiovascular-risk-prediction-biomarker-analysis.ipynb)
+- [Advanced Soccer Feature Engineering Pipeline](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/advanced-soccer-feature-engineering.ipynb)
+- [CROO A2A Protocol: Graph Topology & Neural Router](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/croo-a2a-topology-neural-router.ipynb)
+- [Pokémon TCG AI Battle Challenge: Strategy & Agentic Optimization Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ptcg-ai-battle-challenge-strategy.ipynb)
+- [Enterprise Financial Intelligence & Compliance Multi-Agent Audit Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-agent-financial-intelligence-audit.ipynb)
+- [BenchFlow - Agent Skill Lift: Unified Safety-Constrained Skill Optimization](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/benchflow-safety-constrained-agent-skill-lift.ipynb)
+- [The Post-Backprop Challenge: Zero-Gradient Learning for Efficiency](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-post-backprop-challenge.ipynb)
+- [Pierce the VEIL: Hack It and Crack It Simulation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pierce-the-veil-hack-it-and-crack-it-simulation.ipynb)
+- [Triagegeist - Predict emergency severity](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/triagegeist-predict-emergency-severity.ipynb)
+- [Localized Medical Protocol Agent: Gemma 4 E4B RAG](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-gemma-4-good-hackathon.ipynb)
+- [Measuring Progress Toward AGI - Cognitive Abilities](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/measuring-progress-toward-agi-cognitive-abilities.ipynb)
+
+---
+
 # Competition Notebooks
 
 - [Enveda CASMI 2026: Physics-Informed Spectral Transformer & Reference Library Retrieval](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/physics-informed-spectral-transformer-retrieval.ipynb)
@@ -128,16 +146,12 @@
 - [Predicting Electric Vehicle Purchases (Playground Series - Season 6 Episode 9)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-electric-vehicle-purchases.ipynb)
 - [Coordinated Collusion & Value-Transfer Detection in No-Limit Texas Hold'em](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/detect-suspicious-value-transfers-in-poker.ipynb)
 - [Museum Specimen Collection Annotation Task @ CVNH ECCV26](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/specimen-metadata-ocr-aurc-calibration.ipynb)
-- [Reverse-Engineering On-Chain Solana Sniper Bot](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solana-sniper-bot-reverse-engineering.ipynb)
-- [POMDP Pathfinding via Multi-Agent Deep Q-Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/battlesnake-blackout-2026.ipynb)
 - [Multimodal Multi-Plane 2.5D CNN for Knee MRI Detection](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/knee-abnormality-detection.ipynb)
 - [Solar Filament Segmentation: ResNet U-Net Pipeline](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solar-filament-segmentation-resnet-unet.ipynb)
 - [Spatial-Temporal Hyperspectral Tracking Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/hyperspectral-object-tracking.ipynb)
-- [BenchFlow - Agent Skill Lift](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/benchflow-safety-constrained-agent-skill-lift.ipynb)
 - [Kaggriculture: Microeconomic Dynamic Policy Engine](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/kaggriculture-microeconomic-policy-engine.ipynb)
 - [Predicting Smartphone Addiction (Playground Series - Season 6 Episode 8)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-smartphone-addiction.ipynb)
 - [Predicting Student Health Risk (Playground Series - Season 6 Episode 7)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-gbdt-student-health-profiling.ipynb)
-- [CROO A2A Protocol: Graph Topology & Neural Router](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/croo-a2a-topology-neural-router.ipynb)
 - [Ground Cover Segmentation Challenge, by Duality AI+Lunate AI](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/geospatial-sim2real-segmentation.ipynb)
 - [Neural Debris Removal in Streak Detection Models](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/space-debris-unlearning-retinanet.ipynb)
 - [Biohub - Cell Tracking During Development](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/biohub-3d-cell-tracking-pipeline.ipynb)
@@ -146,9 +160,7 @@
 - [AI Agent Security - Multi-Step Tool Attacks](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/state-space-search-agent-attacks.ipynb)
 - [Retroviral Wall Challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/retroviral-wall-challenge.ipynb)
 - [ROGII - Wellbore Geology Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/rogii-wellbore-geology-prediction.ipynb)
-- [Soccer Feature Engineering Hackathon](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/advanced-soccer-feature-engineering.ipynb)
 - [Autonomous Agent Prediction (Beta)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-agent-automl-pipeline.ipynb)
-- [Byte2Beat - Cardiovascular Risk Stratification and Biomarker Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cardiovascular-risk-prediction-biomarker-analysis.ipynb)
 - [CUHK-X Competition Large Model Track](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cuhk_x_large_model_track_pipeline.ipynb)
 - [CUHK-X Competition Small Model Track](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cuhk-x-har-3dcnn-bigru.ipynb)
 - [Predicting Soil Grain Size Distributions from Images](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/soil-grain-size-prediction-ensemble.ipynb)
@@ -158,13 +170,8 @@
 - [BirdCLEF+ 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/birdclef-2026-mel-spectrogram-cnn-soundscapes.ipynb)
 - [March Machine Learning Mania 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/march-machine-learning-mania-2026.ipynb)
 - [The Great India Quiz Challenge 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-quiz-success-f1-tuning.ipynb)
-- [The Gemma 4 Good Hackathon](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-gemma-4-good-hackathon.ipynb)
-- [Measuring Progress Toward AGI - Cognitive Abilities](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/measuring-progress-toward-agi-cognitive-abilities.ipynb)
-- [The Post-Backprop Challenge: Zero-Gradient Learning for Efficiency](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-post-backprop-challenge.ipynb)
 - [IMAGINE-decoding-challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/imagine-decoding-challenge.ipynb)
-- [Pierce the VEIL: Hack It and Crack It Simulation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pierce-the-veil-hack-it-and-crack-it-simulation.ipynb)
 - [GeoHab 2026 MLWG Competition](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/geohab-2026-mlwg-competition.ipynb)
-- [Pokémon TCG AI Battle Challenge: Strategy & Agentic Optimization Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ptcg-ai-battle-challenge-strategy.ipynb)
 - [The Pokémon Company - PTCG AI Battle Challenge Simulation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ptcg-ai-battle-heuristic-pipeline.ipynb)
 - [SPR 2026 Mammography Report Classification](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/spr-2026-mammography-report-classification.ipynb)
 - [Hedge fund - Time series forecasting](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/time-series-forecasting-with-lag-features-lightgbm.ipynb)
@@ -172,7 +179,7 @@
 - [LLM Operator Development and Optimization](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/llm-operator-development-and-optimization.ipynb)
 - [Maze Crawler](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/maze-crawler.ipynb)
 - [Orbit Wars](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/orbit-wars.ipynb)
-- [3LC Multi Vehicle detection Challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/3lc-multi-vehicle-detection-challenge.ipynb)
+- [3LC Multi Vehicle detection Challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-vehicle-detection-challenge.ipynb)
 - [NVIDIA Nemotron Model Reasoning Challenge](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nvidia-nemotron-model-reasoning-challenge.ipynb)
 - [AI Mathematical Olympiad - Progress Prize 3](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ai-mathematical-olympiad-progress-prize-3.ipynb)
 - [LLM Agentic Legal Information Retrieval](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/bm25-tf-idf-reranking-legal-information-retrieval.ipynb)
@@ -184,7 +191,6 @@
 - [Predict Customer Churn](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predict-customer-churn.ipynb)
 - [Predicting Irrigation Need](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-irrigation-need.ipynb)
 - [UMUD Challenge: Muscle Architecture in Ultrasound Data](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/umud-challenge-muscle-architecture-ultrasound.ipynb)
-- [Triagegeist - Predict emergency severity](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/triagegeist-predict-emergency-severity.ipynb)
 - [Multi-view Pig Posture Recognition](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-view-pig-posture-recognition.ipynb)
 - [Stanford RNA 3D Folding Part 2](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/stanford-rna-3d-folding-part-2.ipynb)
 - [CAFA 6 Protein Function Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cafa-6-protein-function-prediction.ipynb)
