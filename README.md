@@ -121,21 +121,21 @@
 
 ---
 
-# Hackathon Notebooks
+# Hackathon Notebooks & Writeups
 
-- [Reverse-Engineering On-Chain Solana Sniper Bot](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solana-sniper-bot-reverse-engineering.ipynb)
-- [POMDP Pathfinding via Multi-Agent Deep Q-Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/battlesnake-blackout-2026.ipynb)
-- [Cardiovascular Risk Stratification and Biomarker Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cardiovascular-risk-prediction-biomarker-analysis.ipynb)
-- [Advanced Soccer Feature Engineering Pipeline](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/advanced-soccer-feature-engineering.ipynb)
-- [CROO A2A Protocol: Graph Topology & Neural Router](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/croo-a2a-topology-neural-router.ipynb)
-- [Pokémon TCG AI Battle Challenge: Strategy & Agentic Optimization](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ptcg-ai-battle-challenge-strategy.ipynb)
-- [Enterprise Financial Intelligence & Compliance Multi-Agent Audit Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-agent-financial-intelligence-audit.ipynb)
-- [BenchFlow - Agent Skill Lift: Unified Safety-Constrained Skill Optimization](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/benchflow-safety-constrained-agent-skill-lift.ipynb)
-- [The Post-Backprop Challenge: Zero-Gradient Learning for Efficiency](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-post-backprop-challenge.ipynb)
-- [Pierce the VEIL: Hack It and Crack It Simulation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pierce-the-veil-hack-it-and-crack-it-simulation.ipynb)
-- [Triagegeist - Predict emergency severity](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/triagegeist-predict-emergency-severity.ipynb)
-- [Localized Medical Protocol Agent: Gemma 4 E4B RAG](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-gemma-4-good-hackathon.ipynb)
-- [Measuring Progress Toward AGI - Cognitive Abilities](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/measuring-progress-toward-agi-cognitive-abilities.ipynb)
+- [Reverse-Engineering On-Chain Solana Sniper Bot](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solana-sniper-bot-reverse-engineering.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/110025)
+- [POMDP Pathfinding via Multi-Agent Deep Q-Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/battlesnake-blackout-2026.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/109204)
+- [Cardiovascular Risk Stratification and Biomarker Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cardiovascular-risk-prediction-biomarker-analysis.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/107489)
+- [Advanced Soccer Feature Engineering Pipeline](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/advanced-soccer-feature-engineering.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/95300)
+- [CROO A2A Protocol: Graph Topology & Neural Router](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/croo-a2a-topology-neural-router.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/94716)
+- [Pokémon TCG AI Battle Challenge: Strategy & Agentic Optimization](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ptcg-ai-battle-challenge-strategy.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/90541)
+- [Enterprise Financial Intelligence & Compliance Multi-Agent Audit Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-agent-financial-intelligence-audit.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/90439)
+- [BenchFlow - Agent Skill Lift: Unified Safety-Constrained Skill Optimization](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/benchflow-safety-constrained-agent-skill-lift.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/85361)
+- [The Post-Backprop Challenge: Zero-Gradient Learning for Efficiency](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-post-backprop-challenge.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/83229)
+- [Pierce the VEIL: Hack It and Crack It Simulation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pierce-the-veil-hack-it-and-crack-it-simulation.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/80466)
+- [Triagegeist - Predict emergency severity](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/triagegeist-predict-emergency-severity.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/77233)
+- [Localized Medical Protocol Agent: Gemma 4 E4B RAG](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/the-gemma-4-good-hackathon.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/77068)
+- [Measuring Progress Toward AGI - Cognitive Abilities](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/measuring-progress-toward-agi-cognitive-abilities.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/74309)
 
 ---
 
