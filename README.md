@@ -123,6 +123,7 @@
 
 # Hackathon Notebooks & Writeups
 
+- [BioFluidNet-OoC: Microfluidic Organ-on-a-Chip Phenotypic Profiling](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/biofluidnet-ooc-multimodal-phenotypic-profiling.ipynb)
 - [Reverse-Engineering On-Chain Solana Sniper Bot](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solana-sniper-bot-reverse-engineering.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/110025)
 - [POMDP Pathfinding via Multi-Agent Deep Q-Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/battlesnake-blackout-2026.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/109204)
 - [Cardiovascular Risk Stratification and Biomarker Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cardiovascular-risk-prediction-biomarker-analysis.ipynb) **|** [Writeup](https://doi.org/10.34740/kaggle/w/107489)
