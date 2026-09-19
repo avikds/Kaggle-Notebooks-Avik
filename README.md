@@ -142,6 +142,7 @@
 
 # Competition Notebooks
 
+- [Vis-NIR Diffuse Reflectance Spectroscopy & Depth-Stratified ML for Soil Organic Matter](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/vis-nir-spectroscopy-soil-organic-matter-ml.ipynb)
 - [Enveda CASMI 2026: Physics-Informed Spectral Transformer & Reference Library Retrieval](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/physics-informed-spectral-transformer-retrieval.ipynb)
 - [Affine-Lattice Packing & Non-Linear Boundary Compaction for Congruent Ellipses](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/affine-lattice-ellipse-packing.ipynb)
 - [Predicting Electric Vehicle Purchases (Playground Series - Season 6 Episode 9)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-electric-vehicle-purchases.ipynb)
