@@ -142,7 +142,8 @@
 
 # Competition Notebooks
 
-- [ARC-AGI-3: Neural World Models for Spatial POMDPs](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/arc-agi-3-neural-world-models-spatial-pomdp.ipynb)
+- [ARC-AGI-3: Neural World Models for Spatial Partially Observable Markov Decision Process](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/arc-agi-3-neural-world-models-spatial-pomdp.ipynb)
+- [ARC-AGI-2: Program Synthesis & Dihedral Neural Cellular Automata for Abstract Reasoning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/arc-agi-2-grid-transform-solver-with-beam-search.ipynb)
 - [Vis-NIR Diffuse Reflectance Spectroscopy & Depth-Stratified ML for Soil Organic Matter](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/vis-nir-spectroscopy-soil-organic-matter-ml.ipynb)
 - [Enveda CASMI 2026: Physics-Informed Spectral Transformer & Reference Library Retrieval](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/physics-informed-spectral-transformer-retrieval.ipynb)
 - [Affine-Lattice Packing & Non-Linear Boundary Compaction for Congruent Ellipses](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/affine-lattice-ellipse-packing.ipynb)
@@ -189,7 +190,6 @@
 - [LLM Agentic Legal Information Retrieval](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/bm25-tf-idf-reranking-legal-information-retrieval.ipynb)
 - [WiDS Global Datathon 2026](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/wids-global-datathon-2026.ipynb)
 - [Predict 1-Year US Stock Returns from Fundamentals](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predict-1-year-us-stock-returns-from-fundamentals.ipynb)
-- [ARC Prize 2026 - ARC-AGI-2](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/arc-agi-2-grid-transform-solver-with-beam-search.ipynb)
 - [Harmonizing the Data of your Data](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/harmonizing-sdrf-metadata-hybrid-tfidf-rules.ipynb)
 - [Predict Customer Churn](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predict-customer-churn.ipynb)
 - [Predicting Irrigation Need](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-irrigation-need.ipynb)
