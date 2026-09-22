@@ -143,6 +143,7 @@
 
 # Competition Notebooks
 
+- [Solving the 4x4x4 Rubik's Revenge Permutation Group Optimally on Cayley Graphs](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/optimal-geodesic-search-4x4x4-cube-cayley-graph.ipynb)
 - [ARC-AGI-3: Neural World Models for Spatial Partially Observable Markov Decision Process](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/arc-agi-3-neural-world-models-spatial-pomdp.ipynb)
 - [ARC-AGI-2: Program Synthesis & Dihedral Neural Cellular Automata for Abstract Reasoning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/arc-agi-2-grid-transform-solver-with-beam-search.ipynb)
 - [Vis-NIR Diffuse Reflectance Spectroscopy & Depth-Stratified ML for Soil Organic Matter](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/vis-nir-spectroscopy-soil-organic-matter-ml.ipynb)
