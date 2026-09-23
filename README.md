@@ -156,6 +156,7 @@
 - [Multimodal Multi-Plane 2.5D CNN for Knee MRI Detection](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/knee-abnormality-detection.ipynb)
 - [Solar Filament Segmentation: ResNet U-Net Pipeline](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solar-filament-segmentation-resnet-unet.ipynb)
 - [Spatial-Temporal Hyperspectral Tracking Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/hyperspectral-object-tracking.ipynb)
+- [Cross-Dialectal Morphophonological Induction via Finite-State Paradigm Transfer](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/neural-character-morphological-transduction.ipynb)
 - [Kaggriculture: Microeconomic Dynamic Policy Engine](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/kaggriculture-microeconomic-policy-engine.ipynb)
 - [Predicting Smartphone Addiction (Playground Series - Season 6 Episode 8)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-smartphone-addiction.ipynb)
 - [Predicting Student Health Risk (Playground Series - Season 6 Episode 7)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-gbdt-student-health-profiling.ipynb)
