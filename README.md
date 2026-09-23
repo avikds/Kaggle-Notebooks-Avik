@@ -143,6 +143,8 @@
 
 # Competition Notebooks
 
+- [Multimodal Ego-Inertial Fusion Network for Cross-Subject Human Activity Recognition](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/wear-2026-multimodal-egoinertial-har.ipynb)
+- [Cross-Dialectal Morphophonological Induction via Finite-State Paradigm Transfer](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/neural-character-morphological-transduction.ipynb)
 - [Solving the 4x4x4 Rubik's Revenge Permutation Group Optimally on Cayley Graphs](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/optimal-geodesic-search-4x4x4-cube-cayley-graph.ipynb)
 - [ARC-AGI-3: Neural World Models for Spatial Partially Observable Markov Decision Process](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/arc-agi-3-neural-world-models-spatial-pomdp.ipynb)
 - [ARC-AGI-2: Program Synthesis & Dihedral Neural Cellular Automata for Abstract Reasoning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/arc-agi-2-grid-transform-solver-with-beam-search.ipynb)
@@ -156,7 +158,6 @@
 - [Multimodal Multi-Plane 2.5D CNN for Knee MRI Detection](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/knee-abnormality-detection.ipynb)
 - [Solar Filament Segmentation: ResNet U-Net Pipeline](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solar-filament-segmentation-resnet-unet.ipynb)
 - [Spatial-Temporal Hyperspectral Tracking Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/hyperspectral-object-tracking.ipynb)
-- [Cross-Dialectal Morphophonological Induction via Finite-State Paradigm Transfer](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/neural-character-morphological-transduction.ipynb)
 - [Kaggriculture: Microeconomic Dynamic Policy Engine](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/kaggriculture-microeconomic-policy-engine.ipynb)
 - [Predicting Smartphone Addiction (Playground Series - Season 6 Episode 8)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-smartphone-addiction.ipynb)
 - [Predicting Student Health Risk (Playground Series - Season 6 Episode 7)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-gbdt-student-health-profiling.ipynb)
