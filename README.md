@@ -143,6 +143,7 @@
 
 # Competition Notebooks
 
+- [Decoupled Spatial-Temporal Manifold Learning for Regional Cost-Burden Estimation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/decoupled-spatial-temporal-housing-affordability.ipynb)
 - [Dual-Space Spectral Graph SWE Agent for Gemma 4](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/gemma-4-developer-agent-solution.ipynb)
 - [Multimodal Ego-Inertial Fusion Network for Cross-Subject Human Activity Recognition](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/wear-2026-multimodal-egoinertial-har.ipynb)
 - [Cross-Dialectal Morphophonological Induction via Finite-State Paradigm Transfer](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/neural-character-morphological-transduction.ipynb)
