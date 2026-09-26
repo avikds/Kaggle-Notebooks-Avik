@@ -143,6 +143,7 @@
 
 # Competition Notebooks
 
+- [Autonomous Software Engineering via Graph-Augmented Reasoning & Multi-Agent Synthesis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/gemma-4-ast-graph-swe-multi-agent.ipynb)
 - [Deep Biomechanical Network for Skeletal Muscle Architecture Estimation in Ultrasonography](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/biomusclenet-ultrasound-metrology.ipynb)
 - [Decoupled Spatial-Temporal Manifold Learning for Regional Cost-Burden Estimation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/decoupled-spatial-temporal-housing-affordability.ipynb)
 - [Dual-Space Spectral Graph SWE Agent for Gemma 4](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/gemma-4-developer-agent-solution.ipynb)
