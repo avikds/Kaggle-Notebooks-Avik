@@ -143,6 +143,7 @@
 
 # Competition Notebooks
 
+- [Deep Biomechanical Network for Skeletal Muscle Architecture Estimation in Ultrasonography](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/biomusclenet-ultrasound-metrology.ipynb)
 - [Decoupled Spatial-Temporal Manifold Learning for Regional Cost-Burden Estimation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/decoupled-spatial-temporal-housing-affordability.ipynb)
 - [Dual-Space Spectral Graph SWE Agent for Gemma 4](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/gemma-4-developer-agent-solution.ipynb)
 - [Multimodal Ego-Inertial Fusion Network for Cross-Subject Human Activity Recognition](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/wear-2026-multimodal-egoinertial-har.ipynb)
@@ -199,7 +200,6 @@
 - [Harmonizing the Data of your Data](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/harmonizing-sdrf-metadata-hybrid-tfidf-rules.ipynb)
 - [Predict Customer Churn](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predict-customer-churn.ipynb)
 - [Predicting Irrigation Need](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-irrigation-need.ipynb)
-- [UMUD Challenge: Muscle Architecture in Ultrasound Data](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/umud-challenge-muscle-architecture-ultrasound.ipynb)
 - [Multi-view Pig Posture Recognition](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-view-pig-posture-recognition.ipynb)
 - [Stanford RNA 3D Folding Part 2](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/stanford-rna-3d-folding-part-2.ipynb)
 - [CAFA 6 Protein Function Prediction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cafa-6-protein-function-prediction.ipynb)
