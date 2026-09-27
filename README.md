@@ -143,6 +143,7 @@
 
 # Competition Notebooks
 
+- [Quantitative Microstructure Analysis & Dynamic Take-Profit Optimization for Solana AMM](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solana-amm-microstructure-take-profit-modeling.ipynb)
 - [Deep Spatio-Temporal EEG Decoding for Robotic Motor Rehabilitation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cross-subject-eeg-spatio-temporal-rehab-decoding.ipynb)
 - [Autonomous Software Engineering via Graph-Augmented Reasoning & Multi-Agent Synthesis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/gemma-4-ast-graph-swe-multi-agent.ipynb)
 - [Deep Biomechanical Network for Skeletal Muscle Architecture Estimation in Ultrasonography](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/biomusclenet-ultrasound-metrology.ipynb)
