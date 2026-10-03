@@ -146,6 +146,7 @@
 
 # Competition Notebooks
 
+- [Dual-Stage Compound Hurdle Framework with Contextual Transformer Representations](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/stormcost-dual-hurdle-transformer.ipynb)
 - [Quantitative Game-Theoretic Framework & Hierarchical Policy Optimization for Pokémon TCG](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ptcg-hierarchical-policy-bradley-terry.ipynb)
 - [Probabilistic Predictive Modeling Framework: Airline Passenger Satisfaction Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/airline-satisfaction-gbdt-tabular-resnet.ipynb)
 - [Quantitative Microstructure Analysis & Dynamic Take-Profit Optimization for Solana AMM](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solana-amm-microstructure-take-profit-modeling.ipynb)
