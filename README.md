@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Defect Localization in PEM Fuel Cell SEM Micrographs: Calibrated Morphological Analytics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pem-fuel-cell-sem-defect-localization.ipynb)
 - [Operando Electrochemical Performance Mapping for Proton Exchange Membrane Fuel Cells](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pem-fuel-cell-operando-study.ipynb)
 - [Quantum-Chemical Property Prediction via Coulomb Matrix Eigenvalue Spectra](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/quantum-property-prediction-qm9-coulomb-matrix.ipynb)
 - [Half-Metallic Heusler Alloys for Advanced Spintronics: Physics-Informed ML](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/spintronic-heusler-alloys-pinn-dft-informatics.ipynb)
