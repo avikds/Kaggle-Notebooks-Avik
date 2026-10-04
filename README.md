@@ -146,7 +146,6 @@
 
 # Competition Notebooks
 
-- [Dual-Stage Compound Hurdle Framework with Contextual Transformer Representations](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/stormcost-dual-hurdle-transformer.ipynb)
 - [Quantitative Game-Theoretic Framework & Hierarchical Policy Optimization for Pokémon TCG](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ptcg-hierarchical-policy-bradley-terry.ipynb)
 - [Probabilistic Predictive Modeling Framework: Airline Passenger Satisfaction Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/airline-satisfaction-gbdt-tabular-resnet.ipynb)
 - [Quantitative Microstructure Analysis & Dynamic Take-Profit Optimization for Solana AMM](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solana-amm-microstructure-take-profit-modeling.ipynb)
@@ -164,6 +163,7 @@
 - [Vis-NIR Diffuse Reflectance Spectroscopy & Depth-Stratified ML for Soil Organic Matter](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/vis-nir-spectroscopy-soil-organic-matter-ml.ipynb)
 - [Enveda CASMI 2026: Physics-Informed Spectral Transformer & Reference Library Retrieval](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/physics-informed-spectral-transformer-retrieval.ipynb)
 - [Affine-Lattice Packing & Non-Linear Boundary Compaction for Congruent Ellipses](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/affine-lattice-ellipse-packing.ipynb)
+- [Dual-Stage Compound Hurdle Framework with Contextual Transformer Representations](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/stormcost-dual-hurdle-transformer.ipynb)
 - [Predicting Electric Vehicle Purchases (Playground Series - Season 6 Episode 9)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/predicting-electric-vehicle-purchases.ipynb)
 - [Biophysical Lineage Reconstruction: Mitotic Bifurcation Tracking in Developing Embryos](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/3d-kinematic-cell-tracking-mitotic-bifurcation.ipynb)
 - [Coordinated Collusion & Value-Transfer Detection in No-Limit Texas Hold'em](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/detect-suspicious-value-transfers-in-poker.ipynb)
