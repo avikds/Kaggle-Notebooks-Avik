@@ -127,6 +127,7 @@
 
 # Hackathon Notebooks & Writeups
 
+- [Autonomous Healthcare Workflow Synthesis & Reliability Engineering in χ-Bench](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pomdp-healthcare-workflow-synthesis.ipynb)
 - [BioFluidNet-OoC: Microfluidic Organ-on-a-Chip Phenotypic Profiling](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/biofluidnet-ooc-multimodal-phenotypic-profiling.ipynb)
 - [ATMOS-GUARD: Neural Operators for Storm Dynamics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/atmos-guard-storm-dynamics.ipynb) **||** [Writeup](https://doi.org/10.34740/kaggle/w/114260)
 - [Reverse-Engineering On-Chain Solana Sniper Bot](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solana-sniper-bot-reverse-engineering.ipynb) **||** [Writeup](https://doi.org/10.34740/kaggle/w/110025)
