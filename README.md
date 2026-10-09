@@ -150,6 +150,7 @@
 
 # Competition Notebooks
 
+- [Multimodal Diagnosis & Hierarchical Bayesian Ranking for K-12 Mathematical Misconceptions](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/misconception-detection-multimodal-empirical-bayes.ipynb)
 - [Empirical Asset Dynamics & Extremum Detection Mechanics for Trading Signal Classification](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/extremum-prominence-causal-asset-classification.ipynb)
 - [Quantitative Game-Theoretic Framework & Hierarchical Policy Optimization for Pokémon TCG](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ptcg-hierarchical-policy-bradley-terry.ipynb)
 - [Probabilistic Predictive Modeling Framework: Airline Passenger Satisfaction Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/airline-satisfaction-gbdt-tabular-resnet.ipynb)
