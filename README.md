@@ -130,7 +130,7 @@
 - [Kinematic Translation Engine: Decoding 10 Hz Combine Sensor Dynamics into In-Game Separation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nfl-bdb-2027-kinematic-translation.ipynb)
 - [Verifiable Hybrid Orchestration of Behaviour Trees & Vision-Language Reasoning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/verifiable-behaviour-trees-edge-vlms-robotics.ipynb)
 - [Autonomous Healthcare Workflow Synthesis & Reliability Engineering in χ-Bench](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pomdp-healthcare-workflow-synthesis.ipynb)
-- [BioFluidNet-OoC: Microfluidic Organ-on-a-Chip Phenotypic Profiling](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/biofluidnet-ooc-multimodal-phenotypic-profiling.ipynb)
+- [BioFluidNet-OoC: Microfluidic Organ-on-a-Chip Phenotypic Profiling](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/biofluidnet-ooc-multimodal-phenotypic-profiling.ipynb) **||** [Writeup](https://doi.org/10.34740/kaggle/w/114266)
 - [ATMOS-GUARD: Neural Operators for Storm Dynamics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/atmos-guard-storm-dynamics.ipynb) **||** [Writeup](https://doi.org/10.34740/kaggle/w/114260)
 - [Reverse-Engineering On-Chain Solana Sniper Bot](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/solana-sniper-bot-reverse-engineering.ipynb) **||** [Writeup](https://doi.org/10.34740/kaggle/w/110025)
 - [POMDP Pathfinding via Multi-Agent Deep Q-Learning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/battlesnake-blackout-2026.ipynb) **||** [Writeup](https://doi.org/10.34740/kaggle/w/109204)
