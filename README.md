@@ -150,6 +150,7 @@
 
 # Competition Notebooks
 
+- [Thermodynamically Constrained Deep Surrogates for Climate Model Emulation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pinn-clim-noresm2-daily-extremes-emulator.ipynb)
 - [Multimodal Diagnosis & Hierarchical Bayesian Ranking for K-12 Mathematical Misconceptions](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/misconception-detection-multimodal-empirical-bayes.ipynb)
 - [Speech Affect Recognition via Source-Filter Acoustics & Self-Supervised Foundation Representations](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/acoustic-source-filter-speech-affect-recognition.ipynb)
 - [Empirical Asset Dynamics & Extremum Detection Mechanics for Trading Signal Classification](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/extremum-prominence-causal-asset-classification.ipynb)
