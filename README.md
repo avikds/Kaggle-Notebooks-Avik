@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Modeling and High-Dimensional Benchmark of Silicon Photonic Grating Couplers](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/photonic-grating-coupler-benchmark.ipynb)
 - [Lunar Regolith Geomechanics: Granulometry & Physics-Informed Neural Network](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/lunar-regolith-geomechanics-pinn.ipynb)
 - [Defect Localization in PEM Fuel Cell SEM Micrographs: Calibrated Morphological Analytics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pem-fuel-cell-sem-defect-localization.ipynb)
 - [Operando Electrochemical Performance Mapping for Proton Exchange Membrane Fuel Cells](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pem-fuel-cell-operando-study.ipynb)
