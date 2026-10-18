@@ -153,6 +153,7 @@
 # Competition Notebooks
 
 - [Frontier LLM Provenance and Attribution via Stylometric Invariants and Transformer Ensembles](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/frontier-llm-stylometric-attribution-deberta.ipynb)
+- [Extreme-Aware Earth System Emulation & Probabilistic Uncertainty Quantification](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/deep-climate-emulation-quantile-uq.ipynb)
 - [Thermodynamically Constrained Deep Surrogates for Climate Model Emulation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pinn-clim-noresm2-daily-extremes-emulator.ipynb)
 - [Multimodal Diagnosis & Hierarchical Bayesian Ranking for K-12 Mathematical Misconceptions](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/misconception-detection-multimodal-empirical-bayes.ipynb)
 - [Speech Affect Recognition via Source-Filter Acoustics & Self-Supervised Foundation Representations](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/acoustic-source-filter-speech-affect-recognition.ipynb)
