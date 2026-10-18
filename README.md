@@ -247,21 +247,9 @@
 
 # Course Notebooks
 
-- **[Intro to Programming](https://www.kaggle.com/learn/certification/avikdas567/intro-to-programming)**
-  - [Arithmetic and Variables](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-arithmetic-and-variables.ipynb)
-  - [Functions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-functions.ipynb)
-  - [Data Types](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-types.ipynb)
-  - [Conditions and Conditional Statements](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-conditions-and-conditional-statements.ipynb)
-  - [Intro to Lists](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-intro-to-lists.ipynb)
+- **[Intro to Programming](https://www.kaggle.com/learn/certification/avikdas567/intro-to-programming)**: [Arithmetic and Variables](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-arithmetic-and-variables.ipynb) | [Functions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-functions.ipynb) | [Data Types](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-data-types.ipynb) | [Conditions and Conditional Statements](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-conditions-and-conditional-statements.ipynb) | [Intro to Lists](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-intro-to-lists.ipynb)
 
-- **[Python](https://www.kaggle.com/learn/certification/avikdas567/python)**
-  - [Syntax, Variables, and Numbers](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-syntax-variables-and-numbers.ipynb)
-  - [Functions and Getting Help](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-functions-and-getting-help.ipynb)
-  - [Booleans and Conditionals](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-booleans-and-conditionals.ipynb)
-  - [Lists](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-lists.ipynb)
-  - [Loops and List Comprehensions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-loops-and-list-comprehensions.ipynb)
-  - [Strings and Dictionaries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-strings-and-dictionaries.ipynb)
-  - [Working with External Libraries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-working-with-external-libraries.ipynb)
+- **[Python](https://www.kaggle.com/learn/certification/avikdas567/python)**: [Syntax, Variables, and Numbers](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-syntax-variables-and-numbers.ipynb) | [Functions and Getting Help](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-functions-and-getting-help.ipynb) | [Booleans and Conditionals](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-booleans-and-conditionals.ipynb) | [Lists](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-lists.ipynb) | [Loops and List Comprehensions](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-loops-and-list-comprehensions.ipynb) | [Strings and Dictionaries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-strings-and-dictionaries.ipynb) | [Working with External Libraries](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-working-with-external-libraries.ipynb)
 
 - **[Pandas](https://www.kaggle.com/learn/certification/avikdas567/pandas)**
   - [Creating, Reading and Writing](https://github.com/Avik-Das-567/Kaggle-Notebooks-Avik/blob/main/exercise-creating-reading-and-writing.ipynb)
