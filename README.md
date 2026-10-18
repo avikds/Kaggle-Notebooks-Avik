@@ -128,7 +128,6 @@
 
 # Hackathon Notebooks & Writeups
 
-- [Physics-Informed Dual-Horizon Adaptive Control for Commercial HVAC Decarbonization](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cross-building-thermodynamic-hvac-control.ipynb)
 - [Kinematic Translation Engine: Decoding 10 Hz Combine Sensor Dynamics into In-Game Separation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nfl-bdb-2027-kinematic-translation.ipynb)
 - [Verifiable Hybrid Orchestration of Behaviour Trees & Vision-Language Reasoning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/verifiable-behaviour-trees-edge-vlms-robotics.ipynb)
 - [Autonomous Healthcare Workflow Synthesis & Reliability Engineering in χ-Bench](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pomdp-healthcare-workflow-synthesis.ipynb)
@@ -153,6 +152,7 @@
 # Competition Notebooks
 
 - [Frontier LLM Provenance and Attribution via Stylometric Invariants and Transformer Ensembles](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/frontier-llm-stylometric-attribution-deberta.ipynb)
+- [Physics-Informed Dual-Horizon Adaptive Control for Commercial HVAC Decarbonization](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cross-building-thermodynamic-hvac-control.ipynb)
 - [Extreme-Aware Earth System Emulation & Probabilistic Uncertainty Quantification](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/deep-climate-emulation-quantile-uq.ipynb)
 - [Thermodynamically Constrained Deep Surrogates for Climate Model Emulation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pinn-clim-noresm2-daily-extremes-emulator.ipynb)
 - [Multimodal Diagnosis & Hierarchical Bayesian Ranking for K-12 Mathematical Misconceptions](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/misconception-detection-multimodal-empirical-bayes.ipynb)
