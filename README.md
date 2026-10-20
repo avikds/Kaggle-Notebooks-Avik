@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Thermodynamic, Barometric & Aerodynamic Characterization of the Martian Planetary Boundary Layer](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/mars-meda-planetary-boundary-layer-pinn.ipynb)
 - [Exoplanetary Demographics & ML Ensembles: Empirical Analysis of Transiting Systems (TEPCat)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/tepcat-exoplanet-demographics-pinn-ml.ipynb)
 - [Modeling and High-Dimensional Benchmark of Silicon Photonic Grating Couplers](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/photonic-grating-coupler-benchmark.ipynb)
 - [Lunar Regolith Geomechanics: Granulometry & Physics-Informed Neural Network](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/lunar-regolith-geomechanics-pinn.ipynb)
