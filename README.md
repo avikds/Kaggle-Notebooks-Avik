@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Empirical Wood Physics, Taxonomic Trait Allocation & ML Modeling on TWDD Database](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/empirical-wood-physics-taxonomic-trait-modeling.ipynb)
 - [Identification of H→ττ Decays in Hadronic Collisions: A Physics-Informed ML Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/higgs-to-tautau-collider-event-classification.ipynb)
 - [Thermodynamic, Barometric & Aerodynamic Characterization of the Martian Planetary Boundary Layer](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/mars-meda-planetary-boundary-layer-pinn.ipynb)
 - [Exoplanetary Demographics & ML Ensembles: Empirical Analysis of Transiting Systems (TEPCat)](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/tepcat-exoplanet-demographics-pinn-ml.ipynb)
