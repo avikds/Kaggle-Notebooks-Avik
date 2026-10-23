@@ -156,6 +156,7 @@
 
 # Competition Notebooks
 
+- [Verifiable Compilation of Fault-Tolerant Quantum Subroutines via Structured Kickmix Permutations](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/fault-tolerant-kickmix-quantum-circuit-synthesis.ipynb)
 - [Combinatorial Geometry & Precision Optimization: Minimum Enclosing Containers for N Unit Squares](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/optimal-unit-square-packing-sat-dynamics.ipynb)
 - [Frontier LLM Provenance and Attribution via Stylometric Invariants and Transformer Ensembles](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/frontier-llm-stylometric-attribution-deberta.ipynb)
 - [Physics-Informed Dual-Horizon Adaptive Control for Commercial HVAC Decarbonization](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cross-building-thermodynamic-hvac-control.ipynb)
