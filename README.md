@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Multifrequency Spectral Decomposition of Compact Foregrounds in the Planck ERCSC Bandmerged Catalog](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/planck-ercsc-sed-deep-resnet.ipynb)
 - [Nanofluid Thermal Conductivity Prediction: Physics-Informed ML & Deep Neural Architectures](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nanofluid-thermal-conductivity-pinn-kkl.ipynb)
 - [Empirical Wood Physics, Taxonomic Trait Allocation & ML Modeling on TWDD Database](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/empirical-wood-physics-taxonomic-trait-modeling.ipynb)
 - [Identification of H→ττ Decays in Hadronic Collisions: A Physics-Informed ML Framework](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/higgs-to-tautau-collider-event-classification.ipynb)
