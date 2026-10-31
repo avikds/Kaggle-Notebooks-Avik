@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Charmonium Spectroscopy and Dimuon Kinematic Reconstruction at CMS: Resonance Line-Shape Fitting](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cms-jpsi-dimuon-spectroscopy-ml.ipynb)
 - [Multifrequency Spectral Decomposition of Compact Foregrounds in the Planck ERCSC Bandmerged Catalog](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/planck-ercsc-sed-deep-resnet.ipynb)
 - [Nanofluid Thermal Conductivity Prediction: Physics-Informed ML & Deep Neural Architectures](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nanofluid-thermal-conductivity-pinn-kkl.ipynb)
 - [Empirical Wood Physics, Taxonomic Trait Allocation & ML Modeling on TWDD Database](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/empirical-wood-physics-taxonomic-trait-modeling.ipynb)
