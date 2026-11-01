@@ -158,6 +158,7 @@
 
 # Competition Notebooks
 
+- [Latent Threat Vector Identification in Non-Stationary Transaction Streams via Kinematic Information Geometry](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/kinematic-threat-fusion-heterogeneous-boosting.ipynb)
 - [Surface Electromyography & Inertial Kinematics for Zero-Shot Cross-Subject Hand Gesture Recognition](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/calibration-free-multimodal-semg-gesture-decoding.ipynb)
 - [Multi-Modal Atmospheric Remote-Sensing via Radiometry, Plume Dispersion Dynamics, Shrinkage-Calibrated Ensembles](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/obscura-multimodal-atmospheric-radiometry.ipynb)
 - [Verifiable Compilation of Fault-Tolerant Quantum Subroutines via Structured Kickmix Permutations](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/fault-tolerant-kickmix-quantum-circuit-synthesis.ipynb)
