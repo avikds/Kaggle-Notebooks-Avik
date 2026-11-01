@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Direct Borohydride Fuel Cell (DBFC) Electrochemical Dynamics: Impedance Spectroscopy Inversion](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/dbfc-polarization-kinetics-eis-pinn.ipynb)
 - [Charmonium Spectroscopy & Dimuon Kinematic Reconstruction at CMS: Resonance Line-Shape Fitting](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cms-jpsi-dimuon-spectroscopy-ml.ipynb)
 - [Multifrequency Spectral Decomposition of Compact Foregrounds in the Planck ERCSC Bandmerged Catalog](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/planck-ercsc-sed-deep-resnet.ipynb)
 - [Nanofluid Thermal Conductivity Prediction: Physics-Informed ML & Deep Neural Architectures](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nanofluid-thermal-conductivity-pinn-kkl.ipynb)
