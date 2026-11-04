@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Surrogate Modeling, Global Sensitivity Analysis & Optimization Verification for RbGeI3 Perovskite Solar Cells](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/rbgei3-scaps1d-surrogate-modeling.ipynb)
 - [Direct Borohydride Fuel Cell (DBFC) Electrochemical Dynamics: Impedance Spectroscopy Inversion](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/dbfc-polarization-kinetics-eis-pinn.ipynb)
 - [Charmonium Spectroscopy & Dimuon Kinematic Reconstruction at CMS: Resonance Line-Shape Fitting](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/cms-jpsi-dimuon-spectroscopy-ml.ipynb)
 - [Multifrequency Spectral Decomposition of Compact Foregrounds in the Planck ERCSC Bandmerged Catalog](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/planck-ercsc-sed-deep-resnet.ipynb)
