@@ -162,6 +162,7 @@
 
 # Competition Notebooks
 
+- [LLM Classification Finetuning: Predicting Human Preference in Chatbot Arena Conversations](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/permutation-equivariant-llm-preference-finetuning.ipynb)
 - [Latent Threat Vector Identification in Non-Stationary Transaction Streams via Kinematic Information Geometry](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/kinematic-threat-fusion-heterogeneous-boosting.ipynb)
 - [Surface Electromyography & Inertial Kinematics for Zero-Shot Cross-Subject Hand Gesture Recognition](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/calibration-free-multimodal-semg-gesture-decoding.ipynb)
 - [Multi-Modal Atmospheric Remote-Sensing via Radiometry, Plume Dispersion Dynamics, Shrinkage-Calibrated Ensembles](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/obscura-multimodal-atmospheric-radiometry.ipynb)
