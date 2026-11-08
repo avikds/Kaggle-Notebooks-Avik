@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [High-Energy Jet Substructure & Multi-Modal Neural Architectures on the 150-Particle LHC Benchmark](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/lhc-jet-substructure-deep-learning.ipynb)
 - [Quantitative Space Climatology & Magnetospheric Dynamics: Statistical & Deep Learning Analysis](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/planetary-kp-index-climatology-and-forecasting.ipynb)
 - [Cosmological Small-Scale Structure and Subhalo Phase-Space Architecture in IllustrisTNG-50](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/tng50-subhalo-phase-space-dynamics.ipynb)
 - [Radioactive Particle Tracking with Sodium Iodide (NaI(Tl)) Detectors: Gamma-Ray Spectrometry Inversion](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nai-gamma-rpt-inversion-surrogate-modeling.ipynb)
