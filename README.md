@@ -143,6 +143,7 @@
 
 # Hackathon Notebooks & Writeups
 
+- [Physical-Engineering Design Synthesis via Deterministic Feasibility Auditing](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/code-gated-agent-harness-physical-engineering.ipynb)
 - [Kinematic Translation Engine: Decoding 10 Hz Combine Sensor Dynamics into In-Game Separation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nfl-bdb-2027-kinematic-translation.ipynb)
 - [Verifiable Hybrid Orchestration of Behaviour Trees & Vision-Language Reasoning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/verifiable-behaviour-trees-edge-vlms-robotics.ipynb)
 - [Autonomous Healthcare Workflow Synthesis & Reliability Engineering in χ-Bench](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pomdp-healthcare-workflow-synthesis.ipynb)
