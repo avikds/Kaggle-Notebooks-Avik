@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Constitutive Modeling for Structural Material Selection in Electric Vehicle Chassis Design](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/constitutive-modeling-material-selection.ipynb)
 - [Deep Tabular Representations for Kepler Object of Interest Exoplanet Disposition Classification](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-kepler-exoplanet-disposition-classification.ipynb)
 - [Physics-Informed Lithium-Ion Battery Health Monitoring and Prognostics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-li-ion-battery-physics-informed-prognostics.ipynb)
 - [High-Energy Jet Substructure & Multi-Modal Neural Architectures on the 150-Particle LHC Benchmark](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/lhc-jet-substructure-deep-learning.ipynb)
