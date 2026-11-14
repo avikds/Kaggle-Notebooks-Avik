@@ -147,7 +147,7 @@
 - [Empirical Soccer Telemetry: Multi-Vendor Spatial Kinematics and Tactical Phase Engineering](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multi-vendor-soccer-spatial-telemetry-engineering.ipynb)
 - [Physical-Engineering Design Synthesis via Deterministic Feasibility Auditing](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/code-gated-agent-harness-physical-engineering.ipynb)
 - [Kinematic Translation Engine: Decoding 10 Hz Combine Sensor Dynamics into In-Game Separation](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nfl-bdb-2027-kinematic-translation.ipynb)
-- [Verifiable Hybrid Orchestration of Behaviour Trees & Vision-Language Reasoning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/verifiable-behaviour-trees-edge-vlms-robotics.ipynb)
+- [Verifiable Hybrid Orchestration of Behaviour Trees & Vision-Language Reasoning](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/verifiable-behaviour-trees-edge-vlms-robotics.ipynb) **||** [Writeup](https://doi.org/10.34740/kaggle/w/126435)
 - [Autonomous Healthcare Workflow Synthesis & Reliability Engineering in χ-Bench](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/pomdp-healthcare-workflow-synthesis.ipynb)
 - [BioFluidNet-OoC: Microfluidic Organ-on-a-Chip Phenotypic Profiling](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/biofluidnet-ooc-multimodal-phenotypic-profiling.ipynb) **||** [Writeup](https://doi.org/10.34740/kaggle/w/114266)
 - [ATMOS-GUARD: Neural Operators for Storm Dynamics](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/atmos-guard-storm-dynamics.ipynb) **||** [Writeup](https://doi.org/10.34740/kaggle/w/114260)
@@ -169,6 +169,7 @@
 
 # Competition Notebooks
 
+- [Deep Chromospheric Flux Rope Delineation: Multi-Annotator Consensus Modeling and Multi-Scale Feature Pyramids](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/deep-halpha-solar-filament-instance-segmentation.ipynb)
 - [ShareChat RecSys Challenge: Latent Geometry, Out-of-Time Temporal Modeling, and Multi-Model Stacking](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/sharechat-recsys-latent-geometry-stacking.ipynb)
 - [LLM Classification Finetuning: Predicting Human Preference in Chatbot Arena Conversations](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/permutation-equivariant-llm-preference-finetuning.ipynb)
 - [Latent Threat Vector Identification in Non-Stationary Transaction Streams via Kinematic Information Geometry](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/kinematic-threat-fusion-heterogeneous-boosting.ipynb)
