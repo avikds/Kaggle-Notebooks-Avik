@@ -169,6 +169,7 @@
 
 # Competition Notebooks
 
+- [Scalable Compression of Fault-Tolerant Quantum Subroutines via Fiat-Shamir Fuzz Testing & Algebraic Co-Design](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/fiat-shamir-quantum-subroutine-spacetime-codesign.ipynb)
 - [Deep Chromospheric Flux Rope Delineation: Multi-Annotator Consensus Modeling and Multi-Scale Feature Pyramids](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/deep-halpha-solar-filament-instance-segmentation.ipynb)
 - [ShareChat RecSys Challenge: Latent Geometry, Out-of-Time Temporal Modeling, and Multi-Model Stacking](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/sharechat-recsys-latent-geometry-stacking.ipynb)
 - [LLM Classification Finetuning: Predicting Human Preference in Chatbot Arena Conversations](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/permutation-equivariant-llm-preference-finetuning.ipynb)
