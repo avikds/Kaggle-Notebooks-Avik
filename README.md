@@ -1,5 +1,6 @@
 # Kaggle Notebooks
 
+- [Multimodal Fusion of In-Process Sensor Telemetry, Infrared Thermography & Optical Macro-Imaging](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/multimodal-spot-weld-telemetry-imaging.ipynb)
 - [Jet Flavour Identification on LHC: Deep Attentive Architectures for Multi-Class Hadron Tagging](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/lhc-jet-flavour-tagging-transformer.ipynb)
 - [Constitutive Modeling for Structural Material Selection in Electric Vehicle Chassis Design](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/constitutive-modeling-material-selection.ipynb)
 - [Deep Tabular Representations for Kepler Object of Interest Exoplanet Disposition Classification](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/nasa-kepler-exoplanet-disposition-classification.ipynb)
