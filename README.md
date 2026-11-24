@@ -171,6 +171,7 @@
 
 # Competition Notebooks
 
+- [Asynchronous Generalist Gaming Agent: A Physics-Informed Multi-Tier Decision Architecture](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/%20asynchronous-multi-tier-visual-control.ipynb)
 - [Multi-Scale Spatio-Temporal Cortical Decoding with Metric-Aligned Directional Contour Optimization for Mouse Visual BCI Reconstruction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/spatio-temporal-cortical-visual_bci-reconstruction.ipynb)
 - [Vector Addition-Subtraction Chains and Directed Arborescence Optimization for the Elf Calculator](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/santa-2026-straight-line-program-synthesis.ipynb)
 - [High-Resolution Small Molecule Identification from Untargeted Tandem Mass Spectra (LC-MS/MS) - Enveda CASMI](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/ms2-entropy-matching-analog-diffusion.ipynb)
