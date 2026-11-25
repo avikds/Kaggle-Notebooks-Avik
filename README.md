@@ -171,6 +171,7 @@
 
 # Competition Notebooks
 
+- [Quantifying the Marginal Predictive Value of External ERA5 Atmospheric and Soil Modalities in MESOGEOS HandoffLSTM](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/era5-fire-weather-ablation-mesogeos-handoff-lstm.ipynb)
 - [Asynchronous Generalist Gaming Agent: A Physics-Informed Multi-Tier Decision Architecture](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/%20asynchronous-multi-tier-visual-control.ipynb)
 - [Multi-Scale Spatio-Temporal Cortical Decoding with Metric-Aligned Directional Contour Optimization for Mouse Visual BCI Reconstruction](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/spatio-temporal-cortical-visual_bci-reconstruction.ipynb)
 - [Vector Addition-Subtraction Chains and Directed Arborescence Optimization for the Elf Calculator](https://github.com/avikds/Kaggle-Notebooks-Avik/blob/main/santa-2026-straight-line-program-synthesis.ipynb)
